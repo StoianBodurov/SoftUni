@@ -31,7 +31,7 @@ for row_index in range(len(main_matrix) - SUB_MATRIX_SIZE + 1):
 
 
 for r in range(sub_matrix_row_index, sub_matrix_row_index + SUB_MATRIX_SIZE):
-    sub_matrix_row =[]
+    sub_matrix_row = []
     for c in range(sub_matrix_col_index, sub_matrix_col_index + SUB_MATRIX_SIZE):
         sub_matrix_row.append(main_matrix[r][c])
     sub_matrix.append(sub_matrix_row)
