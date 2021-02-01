@@ -1,6 +1,6 @@
-def read_matrix():
+def read_matrix(size):
     matrix = []
-    for _ in range(8):
+    for _ in range(size):
         row = input().split()
         matrix.append(row)
     return matrix
@@ -113,7 +113,8 @@ def print_result(result):
         print('The king is safe!')
 
 
-main_matrix = read_matrix()
+MATRIX_SIZE = 8
+main_matrix = read_matrix(MATRIX_SIZE)
 king_r, king_c = get_king_place(main_matrix)
 result = find_all_quin(main_matrix, king_r, king_c)
 print_result(result)
