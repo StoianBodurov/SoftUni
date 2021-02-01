@@ -4,7 +4,7 @@ from functools import reduce
 def operate(operator, *args):
     operators = {
         '+': lambda x, y: x + y,
-        '-': lambda x, y: x -y,
+        '-': lambda x, y: x - y,
         '*': lambda x, y: x * y,
         '/': lambda x, y: x / y,
     }
