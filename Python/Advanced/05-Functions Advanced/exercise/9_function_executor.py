@@ -8,8 +8,8 @@ def multiply_numbers(num1, num2):
 
 def func_executor(*args):
     result = []
-    for funk, data in args:
-        result.append(funk(*data))
+    for func, data in args:
+        result.append(func(*data))
     return result
 
 
