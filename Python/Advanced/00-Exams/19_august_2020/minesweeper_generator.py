@@ -1,3 +1,6 @@
+import re
+
+
 def red_matrix(n):
     matrix = []
     for _ in range(n):
@@ -17,9 +20,10 @@ bombs_number = int(input())
 field = red_matrix(field_size)
 
 for _ in range(bombs_number):
-    data = list(input())
-    row = int(data[1])
-    col = int(data[-2])
+    data = input()
+    matches = re.findall(r'[0-9]+', data)
+    row = int(matches[0])
+    col = int(matches[-1])
     field[row][col] = '*'
 
 
