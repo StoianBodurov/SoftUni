@@ -28,7 +28,7 @@ def list_manipulator(data, command, *args):
             for i in nums:
                 data.append(i)
         else:
-            for i in range(len(nums) -1, -1, -1):
+            for i in range(len(nums) - 1, -1, -1):
                 data.appendleft(nums[i])
 
     return list(data)

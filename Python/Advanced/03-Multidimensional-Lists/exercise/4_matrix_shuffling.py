@@ -26,7 +26,7 @@ while True:
     command, *res = commands.split(' ')
     if command == 'swap':
         row1, col1, row2, col2 = [int(el) for el in res]
-        if index_is_valid(main_matrix, row1,col1, row2, col2):
+        if index_is_valid(main_matrix, row1, col1, row2, col2):
             main_matrix[row1][col1], main_matrix[row2][col2] = main_matrix[row2][col2], main_matrix[row1][col1]
             print_matrix(main_matrix)
         else:

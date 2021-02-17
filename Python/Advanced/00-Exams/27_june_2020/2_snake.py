@@ -1,14 +1,14 @@
 def read_matrix(n):
     matrix = []
     for _ in range(n):
-        row = list(input())
-        matrix.append(row)
+        m_row = list(input())
+        matrix.append(m_row)
     return matrix
 
 
 def find_snake_coordinates(matrix):
-    row_index = -2
-    col_index = -2
+    row_index = 0
+    col_index = 0
     for r in range(len(matrix)):
         for c in range(len(matrix)):
             if matrix[r][c] == 'S':
@@ -33,8 +33,8 @@ def is_territory(matrix, r_index, c_index):
     return False
 
 
-n = int(input())
-snake_territory = read_matrix(n)
+num = int(input())
+snake_territory = read_matrix(num)
 borrow_coordinates = find_burrow_coordinates(snake_territory)
 food = 0
 
@@ -122,15 +122,16 @@ while True:
         else:
             snake_territory[snake_row][snake_col] = '.'
             break
-    if food == 10:
+    if food >= 10:
         break
 
-if food == 10:
+if food >= 10:
     print('You won! You fed the snake.')
-    print(f'Food eaten: {food}')
+
 else:
     print('Game over!')
-    print(f'Food eaten: {food}')
+
+print(f'Food eaten: {food}')
 
 for row in snake_territory:
     print(*row, sep='')

@@ -21,7 +21,7 @@ field = red_matrix(field_size)
 
 for _ in range(bombs_number):
     data = input()
-    matches = re.findall(r'[0-9]+', data)
+    matches = re.findall(r"[0-9]+", data)
     row = int(matches[0])
     col = int(matches[-1])
     field[row][col] = '*'
@@ -36,10 +36,10 @@ for row_index in range(len(field)):
             if is_valid_position(field, row_index, col_index + 1):
                 if field[row_index][col_index + 1] == '*':
                     count += 1
-            if is_valid_position(field, row_index ,col_index - 1):
+            if is_valid_position(field, row_index, col_index - 1):
                 if field[row_index][col_index - 1] == '*':
                     count += 1
-            if is_valid_position(field, row_index + 1,col_index):
+            if is_valid_position(field, row_index + 1, col_index):
                 if field[row_index + 1][col_index] == '*':
                     count += 1
             if is_valid_position(field, row_index - 1, col_index):
