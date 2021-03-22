@@ -15,14 +15,5 @@ def get_primes(numbers):
             yield num
 
 
-# print(list(get_primes([2, 4, 3, 5, 6, 9, 1, 0])))
-# test zero
-import unittest
+print(list(get_primes([2, 4, 3, 5, 6, 9, 1, 0])))
 
-class Tests(unittest.TestCase):
-    def test_zero(self):
-        res = list(get_primes([2, 4, 3, 5, 6, 9, 1, 0]))
-        self.assertEqual(res, [2, 3, 5])
-
-if __name__ == '__main__':
-    unittest.main()
