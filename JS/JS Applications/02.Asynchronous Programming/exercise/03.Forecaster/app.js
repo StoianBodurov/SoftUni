@@ -19,10 +19,13 @@ async function getWeather() {
         'Degrees': '°'
     }
 
-    const forecastDiv = document.getElementById('forecast');
+    const forecastDiv = document.getElementById('forecasts');
     const location = document.getElementById('location').value;
     const currentConditondiv = document.getElementById('current');
     const upcomingDiv = document.getElementById('upcoming');
+
+    currentConditondiv.textContent = '';
+    upcomingDiv.textContent = '';
    
     try {
         
@@ -89,12 +92,13 @@ async function getWeather() {
             upcomingSpan.appendChild(conditionSpan);
         }
 
-        forecastDiv.style.display = ''
+        forecastDiv.style.display = '';
     }catch(error) {
-        currentConditondiv.innerHTML = ''
-        currentConditondiv.textContent = 'Error'
-        forecastDiv.style.display = ''
+        currentConditondiv.innerHTML = '';
+        currentConditondiv.textContent = 'Error';
+        forecastDiv.style.display = '';
     }  
+    document.getElementById('location').value = ''
 
 }
 
@@ -103,7 +107,6 @@ async function getWeatherCondition(code, url) {
     const response = await fetch(url + code);
     const data = await response.json();
 
-    return data
-
+    return data;
 }
 
