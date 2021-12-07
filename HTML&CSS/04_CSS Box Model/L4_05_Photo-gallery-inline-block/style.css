@@ -1,0 +1,20 @@
+body {
+    max-width: 1200px;
+    margin-left: 20%;
+}
+
+
+ul, li {
+    display: inline-block;
+}
+
+li {
+        border: 0.4rem solid black;
+    margin: 9px;
+    padding: 5px;
+}
+
+img {
+    max-width: 250px;
+    vertical-align: middle;
+}
