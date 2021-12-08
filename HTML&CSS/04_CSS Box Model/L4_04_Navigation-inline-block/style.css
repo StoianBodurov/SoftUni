@@ -1,0 +1,48 @@
+html {
+    font-family: Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    
+    margin: 100px;
+    
+}
+
+header {
+    border-bottom: 1px solid black;
+} 
+
+
+nav, h1, ul, li {
+    display: inline-block;
+}
+
+h1 {
+    font-size: 35px;
+    
+    margin-right: 80px;
+
+}
+
+a {
+    margin: 10px;
+    color: #529900;
+    text-decoration: none;
+    
+}
+
+h2 {
+    font-weight: 300;
+    margin-top: 35px;
+}
+
+p {
+    margin-bottom: 30px;
+}
