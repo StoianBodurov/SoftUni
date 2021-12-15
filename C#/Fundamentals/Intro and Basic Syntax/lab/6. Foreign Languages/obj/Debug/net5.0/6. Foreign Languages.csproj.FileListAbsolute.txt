@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\6. Foreign Languages\bin\Debug\net5.0\6. Foreign Languages.exe
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\6. Foreign Languages\bin\Debug\net5.0\6. Foreign Languages.deps.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\6. Foreign Languages\bin\Debug\net5.0\6. Foreign Languages.runtimeconfig.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\6. Foreign Languages\bin\Debug\net5.0\6. Foreign Languages.runtimeconfig.dev.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\6. Foreign Languages\bin\Debug\net5.0\6. Foreign Languages.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\6. Foreign Languages\bin\Debug\net5.0\ref\6. Foreign Languages.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\6. Foreign Languages\bin\Debug\net5.0\6. Foreign Languages.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net5.0\6. Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net5.0\6. Foreign Languages.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net5.0\6. Foreign Languages.AssemblyInfo.cs
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net5.0\6. Foreign Languages.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net5.0\6. Foreign Languages.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net5.0\ref\6. Foreign Languages.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net5.0\6. Foreign Languages.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\6. Foreign Languages\obj\Debug\net5.0\6. Foreign Languages.genruntimeconfig.cache

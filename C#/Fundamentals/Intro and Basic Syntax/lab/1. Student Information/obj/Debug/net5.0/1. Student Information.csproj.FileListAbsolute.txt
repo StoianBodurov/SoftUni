@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\net5.0\1. Student Information.exe
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\net5.0\1. Student Information.deps.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\net5.0\1. Student Information.runtimeconfig.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\net5.0\1. Student Information.runtimeconfig.dev.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\net5.0\1. Student Information.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\net5.0\ref\1. Student Information.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\net5.0\1. Student Information.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net5.0\1. Student Information.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net5.0\1. Student Information.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net5.0\1. Student Information.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net5.0\1. Student Information.AssemblyInfo.cs
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net5.0\1. Student Information.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net5.0\1. Student Information.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net5.0\ref\1. Student Information.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net5.0\1. Student Information.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net5.0\1. Student Information.genruntimeconfig.cache
