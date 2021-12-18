@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\02.Data Types and Variables\lab\1. Convert Meters to Kilometers\1. Convert Meters to Kilometers\bin\Debug\net5.0\1. Convert Meters to Kilometers.exe
+E:\C#\Fundamentals\02.Data Types and Variables\lab\1. Convert Meters to Kilometers\1. Convert Meters to Kilometers\bin\Debug\net5.0\1. Convert Meters to Kilometers.deps.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\1. Convert Meters to Kilometers\1. Convert Meters to Kilometers\bin\Debug\net5.0\1. Convert Meters to Kilometers.runtimeconfig.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\1. Convert Meters to Kilometers\1. Convert Meters to Kilometers\bin\Debug\net5.0\1. Convert Meters to Kilometers.runtimeconfig.dev.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\1. Convert Meters to Kilometers\1. Convert Meters to Kilometers\bin\Debug\net5.0\1. Convert Meters to Kilometers.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\1. Convert Meters to Kilometers\1. Convert Meters to Kilometers\bin\Debug\net5.0\ref\1. Convert Meters to Kilometers.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\1. Convert Meters to Kilometers\1. Convert Meters to Kilometers\bin\Debug\net5.0\1. Convert Meters to Kilometers.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\lab\1. Convert Meters to Kilometers\1. Convert Meters to Kilometers\obj\Debug\net5.0\1. Convert Meters to Kilometers.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\1. Convert Meters to Kilometers\1. Convert Meters to Kilometers\obj\Debug\net5.0\1. Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\02.Data Types and Variables\lab\1. Convert Meters to Kilometers\1. Convert Meters to Kilometers\obj\Debug\net5.0\1. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\1. Convert Meters to Kilometers\1. Convert Meters to Kilometers\obj\Debug\net5.0\1. Convert Meters to Kilometers.AssemblyInfo.cs
+E:\C#\Fundamentals\02.Data Types and Variables\lab\1. Convert Meters to Kilometers\1. Convert Meters to Kilometers\obj\Debug\net5.0\1. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\1. Convert Meters to Kilometers\1. Convert Meters to Kilometers\obj\Debug\net5.0\1. Convert Meters to Kilometers.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\1. Convert Meters to Kilometers\1. Convert Meters to Kilometers\obj\Debug\net5.0\ref\1. Convert Meters to Kilometers.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\1. Convert Meters to Kilometers\1. Convert Meters to Kilometers\obj\Debug\net5.0\1. Convert Meters to Kilometers.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\lab\1. Convert Meters to Kilometers\1. Convert Meters to Kilometers\obj\Debug\net5.0\1. Convert Meters to Kilometers.genruntimeconfig.cache
