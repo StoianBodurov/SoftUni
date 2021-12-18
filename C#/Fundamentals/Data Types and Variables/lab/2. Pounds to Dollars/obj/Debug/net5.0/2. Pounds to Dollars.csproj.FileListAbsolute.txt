@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\02.Data Types and Variables\lab\2. Pounds to Dollars\bin\Debug\net5.0\2. Pounds to Dollars.exe
+E:\C#\Fundamentals\02.Data Types and Variables\lab\2. Pounds to Dollars\bin\Debug\net5.0\2. Pounds to Dollars.deps.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\2. Pounds to Dollars\bin\Debug\net5.0\2. Pounds to Dollars.runtimeconfig.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\2. Pounds to Dollars\bin\Debug\net5.0\2. Pounds to Dollars.runtimeconfig.dev.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\2. Pounds to Dollars\bin\Debug\net5.0\2. Pounds to Dollars.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\2. Pounds to Dollars\bin\Debug\net5.0\ref\2. Pounds to Dollars.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\2. Pounds to Dollars\bin\Debug\net5.0\2. Pounds to Dollars.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\lab\2. Pounds to Dollars\obj\Debug\net5.0\2. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\02.Data Types and Variables\lab\2. Pounds to Dollars\obj\Debug\net5.0\2. Pounds to Dollars.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\2. Pounds to Dollars\obj\Debug\net5.0\2. Pounds to Dollars.AssemblyInfo.cs
+E:\C#\Fundamentals\02.Data Types and Variables\lab\2. Pounds to Dollars\obj\Debug\net5.0\2. Pounds to Dollars.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\2. Pounds to Dollars\obj\Debug\net5.0\2. Pounds to Dollars.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\2. Pounds to Dollars\obj\Debug\net5.0\ref\2. Pounds to Dollars.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\2. Pounds to Dollars\obj\Debug\net5.0\2. Pounds to Dollars.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\lab\2. Pounds to Dollars\obj\Debug\net5.0\2. Pounds to Dollars.genruntimeconfig.cache
