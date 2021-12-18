@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\2. Passed\bin\Debug\net5.0\2. Passed.exe
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\2. Passed\bin\Debug\net5.0\2. Passed.deps.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\2. Passed\bin\Debug\net5.0\2. Passed.runtimeconfig.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\2. Passed\bin\Debug\net5.0\2. Passed.runtimeconfig.dev.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\2. Passed\bin\Debug\net5.0\2. Passed.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\2. Passed\bin\Debug\net5.0\ref\2. Passed.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\2. Passed\bin\Debug\net5.0\2. Passed.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\2. Passed\obj\Debug\net5.0\2. Passed.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\2. Passed\obj\Debug\net5.0\2. Passed.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\2. Passed\obj\Debug\net5.0\2. Passed.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\2. Passed\obj\Debug\net5.0\2. Passed.AssemblyInfo.cs
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\2. Passed\obj\Debug\net5.0\2. Passed.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\2. Passed\obj\Debug\net5.0\2. Passed.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\2. Passed\obj\Debug\net5.0\ref\2. Passed.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\2. Passed\obj\Debug\net5.0\2. Passed.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\2. Passed\obj\Debug\net5.0\2. Passed.genruntimeconfig.cache

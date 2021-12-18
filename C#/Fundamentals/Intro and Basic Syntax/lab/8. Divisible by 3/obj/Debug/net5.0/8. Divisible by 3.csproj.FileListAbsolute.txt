@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\8. Divisible by 3\bin\Debug\net5.0\8. Divisible by 3.exe
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\8. Divisible by 3\bin\Debug\net5.0\8. Divisible by 3.deps.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\8. Divisible by 3\bin\Debug\net5.0\8. Divisible by 3.runtimeconfig.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\8. Divisible by 3\bin\Debug\net5.0\8. Divisible by 3.runtimeconfig.dev.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\8. Divisible by 3\bin\Debug\net5.0\8. Divisible by 3.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\8. Divisible by 3\bin\Debug\net5.0\ref\8. Divisible by 3.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\8. Divisible by 3\bin\Debug\net5.0\8. Divisible by 3.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\8. Divisible by 3\obj\Debug\net5.0\8. Divisible by 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\8. Divisible by 3\obj\Debug\net5.0\8. Divisible by 3.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\8. Divisible by 3\obj\Debug\net5.0\8. Divisible by 3.AssemblyInfo.cs
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\8. Divisible by 3\obj\Debug\net5.0\8. Divisible by 3.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\8. Divisible by 3\obj\Debug\net5.0\8. Divisible by 3.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\8. Divisible by 3\obj\Debug\net5.0\ref\8. Divisible by 3.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\8. Divisible by 3\obj\Debug\net5.0\8. Divisible by 3.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\8. Divisible by 3\obj\Debug\net5.0\8. Divisible by 3.genruntimeconfig.cache

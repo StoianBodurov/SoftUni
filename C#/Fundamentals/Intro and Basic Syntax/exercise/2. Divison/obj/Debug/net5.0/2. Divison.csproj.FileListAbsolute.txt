@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\2. Divison\bin\Debug\net5.0\2. Divison.exe
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\2. Divison\bin\Debug\net5.0\2. Divison.deps.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\2. Divison\bin\Debug\net5.0\2. Divison.runtimeconfig.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\2. Divison\bin\Debug\net5.0\2. Divison.runtimeconfig.dev.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\2. Divison\bin\Debug\net5.0\2. Divison.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\2. Divison\bin\Debug\net5.0\ref\2. Divison.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\2. Divison\bin\Debug\net5.0\2. Divison.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\2. Divison\obj\Debug\net5.0\2. Divison.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\2. Divison\obj\Debug\net5.0\2. Divison.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\2. Divison\obj\Debug\net5.0\2. Divison.AssemblyInfo.cs
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\2. Divison\obj\Debug\net5.0\2. Divison.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\2. Divison\obj\Debug\net5.0\2. Divison.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\2. Divison\obj\Debug\net5.0\ref\2. Divison.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\2. Divison\obj\Debug\net5.0\2. Divison.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\2. Divison\obj\Debug\net5.0\2. Divison.genruntimeconfig.cache

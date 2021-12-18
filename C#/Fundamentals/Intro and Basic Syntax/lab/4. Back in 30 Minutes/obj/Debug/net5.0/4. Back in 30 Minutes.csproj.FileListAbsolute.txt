@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\4. Back in 30 Minutes\bin\Debug\net5.0\4. Back in 30 Minutes.exe
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\4. Back in 30 Minutes\bin\Debug\net5.0\4. Back in 30 Minutes.deps.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\4. Back in 30 Minutes\bin\Debug\net5.0\4. Back in 30 Minutes.runtimeconfig.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\4. Back in 30 Minutes\bin\Debug\net5.0\4. Back in 30 Minutes.runtimeconfig.dev.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\4. Back in 30 Minutes\bin\Debug\net5.0\4. Back in 30 Minutes.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\4. Back in 30 Minutes\bin\Debug\net5.0\ref\4. Back in 30 Minutes.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\4. Back in 30 Minutes\bin\Debug\net5.0\4. Back in 30 Minutes.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\4. Back in 30 Minutes\obj\Debug\net5.0\4. Back in 30 Minutes.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\4. Back in 30 Minutes\obj\Debug\net5.0\4. Back in 30 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\4. Back in 30 Minutes\obj\Debug\net5.0\4. Back in 30 Minutes.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\4. Back in 30 Minutes\obj\Debug\net5.0\4. Back in 30 Minutes.AssemblyInfo.cs
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\4. Back in 30 Minutes\obj\Debug\net5.0\4. Back in 30 Minutes.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\4. Back in 30 Minutes\obj\Debug\net5.0\4. Back in 30 Minutes.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\4. Back in 30 Minutes\obj\Debug\net5.0\ref\4. Back in 30 Minutes.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\4. Back in 30 Minutes\obj\Debug\net5.0\4. Back in 30 Minutes.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\4. Back in 30 Minutes\obj\Debug\net5.0\4. Back in 30 Minutes.genruntimeconfig.cache

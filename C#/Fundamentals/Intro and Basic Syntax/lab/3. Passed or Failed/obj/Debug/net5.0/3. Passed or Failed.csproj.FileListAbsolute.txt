@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\3. Passed or Failed\bin\Debug\net5.0\3. Passed or Failed.exe
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\3. Passed or Failed\bin\Debug\net5.0\3. Passed or Failed.deps.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\3. Passed or Failed\bin\Debug\net5.0\3. Passed or Failed.runtimeconfig.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\3. Passed or Failed\bin\Debug\net5.0\3. Passed or Failed.runtimeconfig.dev.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\3. Passed or Failed\bin\Debug\net5.0\3. Passed or Failed.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\3. Passed or Failed\bin\Debug\net5.0\ref\3. Passed or Failed.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\3. Passed or Failed\bin\Debug\net5.0\3. Passed or Failed.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\3. Passed or Failed\obj\Debug\net5.0\3. Passed or Failed.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\3. Passed or Failed\obj\Debug\net5.0\3. Passed or Failed.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\3. Passed or Failed\obj\Debug\net5.0\3. Passed or Failed.AssemblyInfo.cs
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\3. Passed or Failed\obj\Debug\net5.0\3. Passed or Failed.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\3. Passed or Failed\obj\Debug\net5.0\3. Passed or Failed.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\3. Passed or Failed\obj\Debug\net5.0\ref\3. Passed or Failed.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\3. Passed or Failed\obj\Debug\net5.0\3. Passed or Failed.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\3. Passed or Failed\obj\Debug\net5.0\3. Passed or Failed.genruntimeconfig.cache

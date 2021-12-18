@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.exe
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.deps.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.runtimeconfig.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.runtimeconfig.dev.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\4. Print and Sum\bin\Debug\net5.0\ref\4. Print and Sum.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.AssemblyInfo.cs
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\4. Print and Sum\obj\Debug\net5.0\ref\4. Print and Sum.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.genruntimeconfig.cache

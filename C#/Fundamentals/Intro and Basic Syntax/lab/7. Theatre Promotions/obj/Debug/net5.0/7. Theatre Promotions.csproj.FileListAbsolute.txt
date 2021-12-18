@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\7. Theatre Promotions\bin\Debug\net5.0\7. Theatre Promotions.exe
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\7. Theatre Promotions\bin\Debug\net5.0\7. Theatre Promotions.deps.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\7. Theatre Promotions\bin\Debug\net5.0\7. Theatre Promotions.runtimeconfig.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\7. Theatre Promotions\bin\Debug\net5.0\7. Theatre Promotions.runtimeconfig.dev.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\7. Theatre Promotions\bin\Debug\net5.0\7. Theatre Promotions.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\7. Theatre Promotions\bin\Debug\net5.0\ref\7. Theatre Promotions.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\7. Theatre Promotions\bin\Debug\net5.0\7. Theatre Promotions.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net5.0\7. Theatre Promotions.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net5.0\7. Theatre Promotions.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net5.0\7. Theatre Promotions.AssemblyInfo.cs
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net5.0\7. Theatre Promotions.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net5.0\7. Theatre Promotions.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net5.0\ref\7. Theatre Promotions.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net5.0\7. Theatre Promotions.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\lab\Intro and Basic Syntax\7. Theatre Promotions\obj\Debug\net5.0\7. Theatre Promotions.genruntimeconfig.cache
