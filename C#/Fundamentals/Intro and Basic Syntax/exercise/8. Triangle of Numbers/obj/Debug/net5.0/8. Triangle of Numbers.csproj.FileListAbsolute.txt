@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\8. Triangle of Numbers\bin\Debug\net5.0\8. Triangle of Numbers.exe
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\8. Triangle of Numbers\bin\Debug\net5.0\8. Triangle of Numbers.deps.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\8. Triangle of Numbers\bin\Debug\net5.0\8. Triangle of Numbers.runtimeconfig.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\8. Triangle of Numbers\bin\Debug\net5.0\8. Triangle of Numbers.runtimeconfig.dev.json
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\8. Triangle of Numbers\bin\Debug\net5.0\8. Triangle of Numbers.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\8. Triangle of Numbers\bin\Debug\net5.0\ref\8. Triangle of Numbers.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\8. Triangle of Numbers\bin\Debug\net5.0\8. Triangle of Numbers.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\8. Triangle of Numbers\obj\Debug\net5.0\8. Triangle of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\8. Triangle of Numbers\obj\Debug\net5.0\8. Triangle of Numbers.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\8. Triangle of Numbers\obj\Debug\net5.0\8. Triangle of Numbers.AssemblyInfo.cs
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\8. Triangle of Numbers\obj\Debug\net5.0\8. Triangle of Numbers.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\8. Triangle of Numbers\obj\Debug\net5.0\8. Triangle of Numbers.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\8. Triangle of Numbers\obj\Debug\net5.0\ref\8. Triangle of Numbers.dll
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\8. Triangle of Numbers\obj\Debug\net5.0\8. Triangle of Numbers.pdb
+E:\C#\Fundamentals\01.Basic Syntax, Conditional Statements and Loops\exercise\8. Triangle of Numbers\obj\Debug\net5.0\8. Triangle of Numbers.genruntimeconfig.cache
