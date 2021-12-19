@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\02.Data Types and Variables\lab\6. Reversed Chars\bin\Debug\net5.0\6. Reversed Chars.exe
+E:\C#\Fundamentals\02.Data Types and Variables\lab\6. Reversed Chars\bin\Debug\net5.0\6. Reversed Chars.deps.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\6. Reversed Chars\bin\Debug\net5.0\6. Reversed Chars.runtimeconfig.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\6. Reversed Chars\bin\Debug\net5.0\6. Reversed Chars.runtimeconfig.dev.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\6. Reversed Chars\bin\Debug\net5.0\6. Reversed Chars.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\6. Reversed Chars\bin\Debug\net5.0\ref\6. Reversed Chars.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\6. Reversed Chars\bin\Debug\net5.0\6. Reversed Chars.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\lab\6. Reversed Chars\obj\Debug\net5.0\6. Reversed Chars.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\02.Data Types and Variables\lab\6. Reversed Chars\obj\Debug\net5.0\6. Reversed Chars.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\6. Reversed Chars\obj\Debug\net5.0\6. Reversed Chars.AssemblyInfo.cs
+E:\C#\Fundamentals\02.Data Types and Variables\lab\6. Reversed Chars\obj\Debug\net5.0\6. Reversed Chars.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\6. Reversed Chars\obj\Debug\net5.0\6. Reversed Chars.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\6. Reversed Chars\obj\Debug\net5.0\ref\6. Reversed Chars.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\6. Reversed Chars\obj\Debug\net5.0\6. Reversed Chars.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\lab\6. Reversed Chars\obj\Debug\net5.0\6. Reversed Chars.genruntimeconfig.cache
