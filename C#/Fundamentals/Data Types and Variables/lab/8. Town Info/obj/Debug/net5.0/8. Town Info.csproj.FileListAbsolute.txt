@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\02.Data Types and Variables\lab\8. Town Info\bin\Debug\net5.0\8. Town Info.exe
+E:\C#\Fundamentals\02.Data Types and Variables\lab\8. Town Info\bin\Debug\net5.0\8. Town Info.deps.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\8. Town Info\bin\Debug\net5.0\8. Town Info.runtimeconfig.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\8. Town Info\bin\Debug\net5.0\8. Town Info.runtimeconfig.dev.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\8. Town Info\bin\Debug\net5.0\8. Town Info.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\8. Town Info\bin\Debug\net5.0\ref\8. Town Info.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\8. Town Info\bin\Debug\net5.0\8. Town Info.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\lab\8. Town Info\obj\Debug\net5.0\8. Town Info.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\02.Data Types and Variables\lab\8. Town Info\obj\Debug\net5.0\8. Town Info.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\8. Town Info\obj\Debug\net5.0\8. Town Info.AssemblyInfo.cs
+E:\C#\Fundamentals\02.Data Types and Variables\lab\8. Town Info\obj\Debug\net5.0\8. Town Info.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\8. Town Info\obj\Debug\net5.0\8. Town Info.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\8. Town Info\obj\Debug\net5.0\ref\8. Town Info.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\8. Town Info\obj\Debug\net5.0\8. Town Info.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\lab\8. Town Info\obj\Debug\net5.0\8. Town Info.genruntimeconfig.cache
