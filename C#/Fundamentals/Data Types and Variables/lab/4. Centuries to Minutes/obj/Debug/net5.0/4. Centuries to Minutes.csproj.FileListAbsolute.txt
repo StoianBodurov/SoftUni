@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\02.Data Types and Variables\lab\4. Centuries to Minutes\obj\Debug\net5.0\4. Centuries to Minutes.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\4. Centuries to Minutes\obj\Debug\net5.0\4. Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\02.Data Types and Variables\lab\4. Centuries to Minutes\obj\Debug\net5.0\4. Centuries to Minutes.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\4. Centuries to Minutes\obj\Debug\net5.0\4. Centuries to Minutes.AssemblyInfo.cs
+E:\C#\Fundamentals\02.Data Types and Variables\lab\4. Centuries to Minutes\obj\Debug\net5.0\4. Centuries to Minutes.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\4. Centuries to Minutes\bin\Debug\net5.0\4. Centuries to Minutes.exe
+E:\C#\Fundamentals\02.Data Types and Variables\lab\4. Centuries to Minutes\bin\Debug\net5.0\4. Centuries to Minutes.deps.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\4. Centuries to Minutes\bin\Debug\net5.0\4. Centuries to Minutes.runtimeconfig.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\4. Centuries to Minutes\bin\Debug\net5.0\4. Centuries to Minutes.runtimeconfig.dev.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\4. Centuries to Minutes\bin\Debug\net5.0\4. Centuries to Minutes.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\4. Centuries to Minutes\bin\Debug\net5.0\ref\4. Centuries to Minutes.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\4. Centuries to Minutes\bin\Debug\net5.0\4. Centuries to Minutes.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\lab\4. Centuries to Minutes\obj\Debug\net5.0\4. Centuries to Minutes.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\4. Centuries to Minutes\obj\Debug\net5.0\ref\4. Centuries to Minutes.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\4. Centuries to Minutes\obj\Debug\net5.0\4. Centuries to Minutes.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\lab\4. Centuries to Minutes\obj\Debug\net5.0\4. Centuries to Minutes.genruntimeconfig.cache
