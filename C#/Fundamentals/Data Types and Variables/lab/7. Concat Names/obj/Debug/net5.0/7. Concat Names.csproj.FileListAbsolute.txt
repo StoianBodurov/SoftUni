@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\02.Data Types and Variables\lab\7. Concat Names\bin\Debug\net5.0\7. Concat Names.exe
+E:\C#\Fundamentals\02.Data Types and Variables\lab\7. Concat Names\bin\Debug\net5.0\7. Concat Names.deps.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\7. Concat Names\bin\Debug\net5.0\7. Concat Names.runtimeconfig.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\7. Concat Names\bin\Debug\net5.0\7. Concat Names.runtimeconfig.dev.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\7. Concat Names\bin\Debug\net5.0\7. Concat Names.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\7. Concat Names\bin\Debug\net5.0\ref\7. Concat Names.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\7. Concat Names\bin\Debug\net5.0\7. Concat Names.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\lab\7. Concat Names\obj\Debug\net5.0\7. Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\02.Data Types and Variables\lab\7. Concat Names\obj\Debug\net5.0\7. Concat Names.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\7. Concat Names\obj\Debug\net5.0\7. Concat Names.AssemblyInfo.cs
+E:\C#\Fundamentals\02.Data Types and Variables\lab\7. Concat Names\obj\Debug\net5.0\7. Concat Names.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\7. Concat Names\obj\Debug\net5.0\7. Concat Names.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\7. Concat Names\obj\Debug\net5.0\ref\7. Concat Names.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\7. Concat Names\obj\Debug\net5.0\7. Concat Names.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\lab\7. Concat Names\obj\Debug\net5.0\7. Concat Names.genruntimeconfig.cache
