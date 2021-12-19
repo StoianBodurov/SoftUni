@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\02.Data Types and Variables\lab\9. Chars to String\bin\Debug\net5.0\9. Chars to String.exe
+E:\C#\Fundamentals\02.Data Types and Variables\lab\9. Chars to String\bin\Debug\net5.0\9. Chars to String.deps.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\9. Chars to String\bin\Debug\net5.0\9. Chars to String.runtimeconfig.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\9. Chars to String\bin\Debug\net5.0\9. Chars to String.runtimeconfig.dev.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\9. Chars to String\bin\Debug\net5.0\9. Chars to String.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\9. Chars to String\bin\Debug\net5.0\ref\9. Chars to String.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\9. Chars to String\bin\Debug\net5.0\9. Chars to String.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\lab\9. Chars to String\obj\Debug\net5.0\9. Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\02.Data Types and Variables\lab\9. Chars to String\obj\Debug\net5.0\9. Chars to String.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\9. Chars to String\obj\Debug\net5.0\9. Chars to String.AssemblyInfo.cs
+E:\C#\Fundamentals\02.Data Types and Variables\lab\9. Chars to String\obj\Debug\net5.0\9. Chars to String.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\9. Chars to String\obj\Debug\net5.0\9. Chars to String.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\9. Chars to String\obj\Debug\net5.0\ref\9. Chars to String.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\9. Chars to String\obj\Debug\net5.0\9. Chars to String.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\lab\9. Chars to String\obj\Debug\net5.0\9. Chars to String.genruntimeconfig.cache
