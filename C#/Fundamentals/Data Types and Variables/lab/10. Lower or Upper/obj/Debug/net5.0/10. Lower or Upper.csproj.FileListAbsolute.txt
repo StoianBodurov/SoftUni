@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\02.Data Types and Variables\lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.exe
+E:\C#\Fundamentals\02.Data Types and Variables\lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.deps.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.runtimeconfig.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.runtimeconfig.dev.json
+E:\C#\Fundamentals\02.Data Types and Variables\lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\10. Lower or Upper\bin\Debug\net5.0\ref\10. Lower or Upper.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\02.Data Types and Variables\lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.AssemblyInfo.cs
+E:\C#\Fundamentals\02.Data Types and Variables\lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\10. Lower or Upper\obj\Debug\net5.0\ref\10. Lower or Upper.dll
+E:\C#\Fundamentals\02.Data Types and Variables\lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.genruntimeconfig.cache
