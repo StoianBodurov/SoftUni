@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\1. Integer Operations\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.exe
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\1. Integer Operations\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.deps.json
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\1. Integer Operations\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.runtimeconfig.json
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\1. Integer Operations\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.runtimeconfig.dev.json
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\1. Integer Operations\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\1. Integer Operations\1. Integer Operations\bin\Debug\net5.0\ref\1. Integer Operations.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\1. Integer Operations\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\1. Integer Operations\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\1. Integer Operations\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\1. Integer Operations\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\1. Integer Operations\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.AssemblyInfo.cs
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\1. Integer Operations\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\1. Integer Operations\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\1. Integer Operations\1. Integer Operations\obj\Debug\net5.0\ref\1. Integer Operations.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\1. Integer Operations\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\1. Integer Operations\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.genruntimeconfig.cache
