@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\3. Elevator\bin\Debug\net5.0\3. Elevator.exe
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\3. Elevator\bin\Debug\net5.0\3. Elevator.deps.json
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\3. Elevator\bin\Debug\net5.0\3. Elevator.runtimeconfig.json
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\3. Elevator\bin\Debug\net5.0\3. Elevator.runtimeconfig.dev.json
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\3. Elevator\bin\Debug\net5.0\3. Elevator.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\3. Elevator\bin\Debug\net5.0\ref\3. Elevator.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\3. Elevator\bin\Debug\net5.0\3. Elevator.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\3. Elevator\obj\Debug\net5.0\3. Elevator.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\3. Elevator\obj\Debug\net5.0\3. Elevator.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\3. Elevator\obj\Debug\net5.0\3. Elevator.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\3. Elevator\obj\Debug\net5.0\3. Elevator.AssemblyInfo.cs
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\3. Elevator\obj\Debug\net5.0\3. Elevator.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\3. Elevator\obj\Debug\net5.0\3. Elevator.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\3. Elevator\obj\Debug\net5.0\ref\3. Elevator.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\3. Elevator\obj\Debug\net5.0\3. Elevator.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\3. Elevator\obj\Debug\net5.0\3. Elevator.genruntimeconfig.cache
