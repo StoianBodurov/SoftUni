@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\03.Arrays\lab\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.exe
+E:\C#\Fundamentals\03.Arrays\lab\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.deps.json
+E:\C#\Fundamentals\03.Arrays\lab\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.runtimeconfig.json
+E:\C#\Fundamentals\03.Arrays\lab\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.runtimeconfig.dev.json
+E:\C#\Fundamentals\03.Arrays\lab\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.dll
+E:\C#\Fundamentals\03.Arrays\lab\4. Reverse Array of Strings\bin\Debug\net5.0\ref\4. Reverse Array of Strings.dll
+E:\C#\Fundamentals\03.Arrays\lab\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.pdb
+E:\C#\Fundamentals\03.Arrays\lab\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\03.Arrays\lab\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\03.Arrays\lab\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\03.Arrays\lab\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.AssemblyInfo.cs
+E:\C#\Fundamentals\03.Arrays\lab\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\03.Arrays\lab\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.dll
+E:\C#\Fundamentals\03.Arrays\lab\4. Reverse Array of Strings\obj\Debug\net5.0\ref\4. Reverse Array of Strings.dll
+E:\C#\Fundamentals\03.Arrays\lab\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.pdb
+E:\C#\Fundamentals\03.Arrays\lab\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.genruntimeconfig.cache
