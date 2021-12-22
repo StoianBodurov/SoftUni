@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\03.Arrays\exercise\5. Top Integers\bin\Debug\net5.0\5. Top Integers.exe
+E:\C#\Fundamentals\03.Arrays\exercise\5. Top Integers\bin\Debug\net5.0\5. Top Integers.deps.json
+E:\C#\Fundamentals\03.Arrays\exercise\5. Top Integers\bin\Debug\net5.0\5. Top Integers.runtimeconfig.json
+E:\C#\Fundamentals\03.Arrays\exercise\5. Top Integers\bin\Debug\net5.0\5. Top Integers.runtimeconfig.dev.json
+E:\C#\Fundamentals\03.Arrays\exercise\5. Top Integers\bin\Debug\net5.0\5. Top Integers.dll
+E:\C#\Fundamentals\03.Arrays\exercise\5. Top Integers\bin\Debug\net5.0\ref\5. Top Integers.dll
+E:\C#\Fundamentals\03.Arrays\exercise\5. Top Integers\bin\Debug\net5.0\5. Top Integers.pdb
+E:\C#\Fundamentals\03.Arrays\exercise\5. Top Integers\obj\Debug\net5.0\5. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\03.Arrays\exercise\5. Top Integers\obj\Debug\net5.0\5. Top Integers.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\03.Arrays\exercise\5. Top Integers\obj\Debug\net5.0\5. Top Integers.AssemblyInfo.cs
+E:\C#\Fundamentals\03.Arrays\exercise\5. Top Integers\obj\Debug\net5.0\5. Top Integers.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\03.Arrays\exercise\5. Top Integers\obj\Debug\net5.0\5. Top Integers.dll
+E:\C#\Fundamentals\03.Arrays\exercise\5. Top Integers\obj\Debug\net5.0\ref\5. Top Integers.dll
+E:\C#\Fundamentals\03.Arrays\exercise\5. Top Integers\obj\Debug\net5.0\5. Top Integers.pdb
+E:\C#\Fundamentals\03.Arrays\exercise\5. Top Integers\obj\Debug\net5.0\5. Top Integers.genruntimeconfig.cache
