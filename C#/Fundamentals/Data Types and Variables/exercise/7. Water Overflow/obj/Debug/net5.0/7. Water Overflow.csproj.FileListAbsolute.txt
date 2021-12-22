@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.exe
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.deps.json
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.runtimeconfig.json
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.runtimeconfig.dev.json
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\7. Water Overflow\bin\Debug\net5.0\ref\7. Water Overflow.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.AssemblyInfo.cs
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\7. Water Overflow\obj\Debug\net5.0\ref\7. Water Overflow.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.genruntimeconfig.cache
