@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\5. Print Part of the ASCII Table\bin\Debug\net5.0\5. Print Part of the ASCII Table.exe
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\5. Print Part of the ASCII Table\bin\Debug\net5.0\5. Print Part of the ASCII Table.deps.json
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\5. Print Part of the ASCII Table\bin\Debug\net5.0\5. Print Part of the ASCII Table.runtimeconfig.json
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\5. Print Part of the ASCII Table\bin\Debug\net5.0\5. Print Part of the ASCII Table.runtimeconfig.dev.json
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\5. Print Part of the ASCII Table\bin\Debug\net5.0\5. Print Part of the ASCII Table.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\5. Print Part of the ASCII Table\bin\Debug\net5.0\ref\5. Print Part of the ASCII Table.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\5. Print Part of the ASCII Table\bin\Debug\net5.0\5. Print Part of the ASCII Table.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\5. Print Part of the ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\5. Print Part of the ASCII Table.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\5. Print Part of the ASCII Table.AssemblyInfo.cs
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\5. Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\5. Print Part of the ASCII Table.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\ref\5. Print Part of the ASCII Table.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\5. Print Part of the ASCII Table.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\5. Print Part of the ASCII Table.genruntimeconfig.cache
