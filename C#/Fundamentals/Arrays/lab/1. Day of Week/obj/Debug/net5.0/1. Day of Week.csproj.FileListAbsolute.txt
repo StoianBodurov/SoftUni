@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\03.Arrays\lab\1. Day of Week\bin\Debug\net5.0\1. Day of Week.exe
+E:\C#\Fundamentals\03.Arrays\lab\1. Day of Week\bin\Debug\net5.0\1. Day of Week.deps.json
+E:\C#\Fundamentals\03.Arrays\lab\1. Day of Week\bin\Debug\net5.0\1. Day of Week.runtimeconfig.json
+E:\C#\Fundamentals\03.Arrays\lab\1. Day of Week\bin\Debug\net5.0\1. Day of Week.runtimeconfig.dev.json
+E:\C#\Fundamentals\03.Arrays\lab\1. Day of Week\bin\Debug\net5.0\1. Day of Week.dll
+E:\C#\Fundamentals\03.Arrays\lab\1. Day of Week\bin\Debug\net5.0\ref\1. Day of Week.dll
+E:\C#\Fundamentals\03.Arrays\lab\1. Day of Week\bin\Debug\net5.0\1. Day of Week.pdb
+E:\C#\Fundamentals\03.Arrays\lab\1. Day of Week\obj\Debug\net5.0\1. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\03.Arrays\lab\1. Day of Week\obj\Debug\net5.0\1. Day of Week.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\03.Arrays\lab\1. Day of Week\obj\Debug\net5.0\1. Day of Week.AssemblyInfo.cs
+E:\C#\Fundamentals\03.Arrays\lab\1. Day of Week\obj\Debug\net5.0\1. Day of Week.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\03.Arrays\lab\1. Day of Week\obj\Debug\net5.0\1. Day of Week.dll
+E:\C#\Fundamentals\03.Arrays\lab\1. Day of Week\obj\Debug\net5.0\ref\1. Day of Week.dll
+E:\C#\Fundamentals\03.Arrays\lab\1. Day of Week\obj\Debug\net5.0\1. Day of Week.pdb
+E:\C#\Fundamentals\03.Arrays\lab\1. Day of Week\obj\Debug\net5.0\1. Day of Week.genruntimeconfig.cache
