@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\03.Arrays\exercise\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.exe
+E:\C#\Fundamentals\03.Arrays\exercise\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.deps.json
+E:\C#\Fundamentals\03.Arrays\exercise\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.runtimeconfig.json
+E:\C#\Fundamentals\03.Arrays\exercise\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.runtimeconfig.dev.json
+E:\C#\Fundamentals\03.Arrays\exercise\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.dll
+E:\C#\Fundamentals\03.Arrays\exercise\3. Zig-Zag Arrays\bin\Debug\net5.0\ref\3. Zig-Zag Arrays.dll
+E:\C#\Fundamentals\03.Arrays\exercise\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.pdb
+E:\C#\Fundamentals\03.Arrays\exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\03.Arrays\exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\03.Arrays\exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\03.Arrays\exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.AssemblyInfo.cs
+E:\C#\Fundamentals\03.Arrays\exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\03.Arrays\exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.dll
+E:\C#\Fundamentals\03.Arrays\exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\ref\3. Zig-Zag Arrays.dll
+E:\C#\Fundamentals\03.Arrays\exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.pdb
+E:\C#\Fundamentals\03.Arrays\exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.genruntimeconfig.cache
