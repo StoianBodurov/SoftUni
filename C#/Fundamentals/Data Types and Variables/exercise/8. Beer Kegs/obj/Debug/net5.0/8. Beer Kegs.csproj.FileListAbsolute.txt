@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\8. Beer Kegs\bin\Debug\net5.0\8. Beer Kegs.exe
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\8. Beer Kegs\bin\Debug\net5.0\8. Beer Kegs.deps.json
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\8. Beer Kegs\bin\Debug\net5.0\8. Beer Kegs.runtimeconfig.json
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\8. Beer Kegs\bin\Debug\net5.0\8. Beer Kegs.runtimeconfig.dev.json
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\8. Beer Kegs\bin\Debug\net5.0\8. Beer Kegs.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\8. Beer Kegs\bin\Debug\net5.0\ref\8. Beer Kegs.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\8. Beer Kegs\bin\Debug\net5.0\8. Beer Kegs.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\8. Beer Kegs\obj\Debug\net5.0\8. Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\8. Beer Kegs\obj\Debug\net5.0\8. Beer Kegs.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\8. Beer Kegs\obj\Debug\net5.0\8. Beer Kegs.AssemblyInfo.cs
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\8. Beer Kegs\obj\Debug\net5.0\8. Beer Kegs.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\8. Beer Kegs\obj\Debug\net5.0\8. Beer Kegs.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\8. Beer Kegs\obj\Debug\net5.0\ref\8. Beer Kegs.dll
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\8. Beer Kegs\obj\Debug\net5.0\8. Beer Kegs.pdb
+E:\C#\Fundamentals\02.Data Types and Variables\exercise\8. Beer Kegs\obj\Debug\net5.0\8. Beer Kegs.genruntimeconfig.cache
