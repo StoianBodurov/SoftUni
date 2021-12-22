@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\03.Arrays\lab\6. Even and Odd Subtraction\bin\Debug\net5.0\6. Even and Odd Subtraction.exe
+E:\C#\Fundamentals\03.Arrays\lab\6. Even and Odd Subtraction\bin\Debug\net5.0\6. Even and Odd Subtraction.deps.json
+E:\C#\Fundamentals\03.Arrays\lab\6. Even and Odd Subtraction\bin\Debug\net5.0\6. Even and Odd Subtraction.runtimeconfig.json
+E:\C#\Fundamentals\03.Arrays\lab\6. Even and Odd Subtraction\bin\Debug\net5.0\6. Even and Odd Subtraction.runtimeconfig.dev.json
+E:\C#\Fundamentals\03.Arrays\lab\6. Even and Odd Subtraction\bin\Debug\net5.0\6. Even and Odd Subtraction.dll
+E:\C#\Fundamentals\03.Arrays\lab\6. Even and Odd Subtraction\bin\Debug\net5.0\ref\6. Even and Odd Subtraction.dll
+E:\C#\Fundamentals\03.Arrays\lab\6. Even and Odd Subtraction\bin\Debug\net5.0\6. Even and Odd Subtraction.pdb
+E:\C#\Fundamentals\03.Arrays\lab\6. Even and Odd Subtraction\obj\Debug\net5.0\6. Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\03.Arrays\lab\6. Even and Odd Subtraction\obj\Debug\net5.0\6. Even and Odd Subtraction.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\03.Arrays\lab\6. Even and Odd Subtraction\obj\Debug\net5.0\6. Even and Odd Subtraction.AssemblyInfo.cs
+E:\C#\Fundamentals\03.Arrays\lab\6. Even and Odd Subtraction\obj\Debug\net5.0\6. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\03.Arrays\lab\6. Even and Odd Subtraction\obj\Debug\net5.0\6. Even and Odd Subtraction.dll
+E:\C#\Fundamentals\03.Arrays\lab\6. Even and Odd Subtraction\obj\Debug\net5.0\ref\6. Even and Odd Subtraction.dll
+E:\C#\Fundamentals\03.Arrays\lab\6. Even and Odd Subtraction\obj\Debug\net5.0\6. Even and Odd Subtraction.pdb
+E:\C#\Fundamentals\03.Arrays\lab\6. Even and Odd Subtraction\obj\Debug\net5.0\6. Even and Odd Subtraction.genruntimeconfig.cache
