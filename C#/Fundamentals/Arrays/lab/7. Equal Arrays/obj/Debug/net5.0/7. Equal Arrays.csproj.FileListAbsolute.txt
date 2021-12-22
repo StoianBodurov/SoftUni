@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\03.Arrays\lab\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.exe
+E:\C#\Fundamentals\03.Arrays\lab\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.deps.json
+E:\C#\Fundamentals\03.Arrays\lab\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.runtimeconfig.json
+E:\C#\Fundamentals\03.Arrays\lab\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.runtimeconfig.dev.json
+E:\C#\Fundamentals\03.Arrays\lab\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.dll
+E:\C#\Fundamentals\03.Arrays\lab\7. Equal Arrays\bin\Debug\net5.0\ref\7. Equal Arrays.dll
+E:\C#\Fundamentals\03.Arrays\lab\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.pdb
+E:\C#\Fundamentals\03.Arrays\lab\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\03.Arrays\lab\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\03.Arrays\lab\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.AssemblyInfo.cs
+E:\C#\Fundamentals\03.Arrays\lab\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\03.Arrays\lab\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.dll
+E:\C#\Fundamentals\03.Arrays\lab\7. Equal Arrays\obj\Debug\net5.0\ref\7. Equal Arrays.dll
+E:\C#\Fundamentals\03.Arrays\lab\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.pdb
+E:\C#\Fundamentals\03.Arrays\lab\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.genruntimeconfig.cache
