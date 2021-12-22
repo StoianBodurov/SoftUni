@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\03.Arrays\exercise\2. Common Elements\bin\Debug\net5.0\2. Common Elements.exe
+E:\C#\Fundamentals\03.Arrays\exercise\2. Common Elements\bin\Debug\net5.0\2. Common Elements.deps.json
+E:\C#\Fundamentals\03.Arrays\exercise\2. Common Elements\bin\Debug\net5.0\2. Common Elements.runtimeconfig.json
+E:\C#\Fundamentals\03.Arrays\exercise\2. Common Elements\bin\Debug\net5.0\2. Common Elements.runtimeconfig.dev.json
+E:\C#\Fundamentals\03.Arrays\exercise\2. Common Elements\bin\Debug\net5.0\2. Common Elements.dll
+E:\C#\Fundamentals\03.Arrays\exercise\2. Common Elements\bin\Debug\net5.0\ref\2. Common Elements.dll
+E:\C#\Fundamentals\03.Arrays\exercise\2. Common Elements\bin\Debug\net5.0\2. Common Elements.pdb
+E:\C#\Fundamentals\03.Arrays\exercise\2. Common Elements\obj\Debug\net5.0\2. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\03.Arrays\exercise\2. Common Elements\obj\Debug\net5.0\2. Common Elements.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\03.Arrays\exercise\2. Common Elements\obj\Debug\net5.0\2. Common Elements.AssemblyInfo.cs
+E:\C#\Fundamentals\03.Arrays\exercise\2. Common Elements\obj\Debug\net5.0\2. Common Elements.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\03.Arrays\exercise\2. Common Elements\obj\Debug\net5.0\2. Common Elements.dll
+E:\C#\Fundamentals\03.Arrays\exercise\2. Common Elements\obj\Debug\net5.0\ref\2. Common Elements.dll
+E:\C#\Fundamentals\03.Arrays\exercise\2. Common Elements\obj\Debug\net5.0\2. Common Elements.pdb
+E:\C#\Fundamentals\03.Arrays\exercise\2. Common Elements\obj\Debug\net5.0\2. Common Elements.genruntimeconfig.cache
