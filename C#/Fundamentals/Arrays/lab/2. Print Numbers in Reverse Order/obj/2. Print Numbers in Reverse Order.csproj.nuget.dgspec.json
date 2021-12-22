@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\Fundamentals\\03.Arrays\\lab\\lab\\lab.csproj": {}
+    "E:\\C#\\Fundamentals\\03.Arrays\\lab\\2. Print Numbers in Reverse Order\\2. Print Numbers in Reverse Order.csproj": {}
   },
   "projects": {
-    "E:\\C#\\Fundamentals\\03.Arrays\\lab\\lab\\lab.csproj": {
+    "E:\\C#\\Fundamentals\\03.Arrays\\lab\\2. Print Numbers in Reverse Order\\2. Print Numbers in Reverse Order.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\Fundamentals\\03.Arrays\\lab\\lab\\lab.csproj",
-        "projectName": "lab",
-        "projectPath": "E:\\C#\\Fundamentals\\03.Arrays\\lab\\lab\\lab.csproj",
+        "projectUniqueName": "E:\\C#\\Fundamentals\\03.Arrays\\lab\\2. Print Numbers in Reverse Order\\2. Print Numbers in Reverse Order.csproj",
+        "projectName": "2. Print Numbers in Reverse Order",
+        "projectPath": "E:\\C#\\Fundamentals\\03.Arrays\\lab\\2. Print Numbers in Reverse Order\\2. Print Numbers in Reverse Order.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\Fundamentals\\03.Arrays\\lab\\lab\\obj\\",
+        "outputPath": "E:\\C#\\Fundamentals\\03.Arrays\\lab\\2. Print Numbers in Reverse Order\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
