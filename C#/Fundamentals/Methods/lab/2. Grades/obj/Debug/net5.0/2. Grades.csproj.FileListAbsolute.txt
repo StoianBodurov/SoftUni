@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\04.Methods\lab\2. Grades\bin\Debug\net5.0\2. Grades.exe
+E:\C#\Fundamentals\04.Methods\lab\2. Grades\bin\Debug\net5.0\2. Grades.deps.json
+E:\C#\Fundamentals\04.Methods\lab\2. Grades\bin\Debug\net5.0\2. Grades.runtimeconfig.json
+E:\C#\Fundamentals\04.Methods\lab\2. Grades\bin\Debug\net5.0\2. Grades.runtimeconfig.dev.json
+E:\C#\Fundamentals\04.Methods\lab\2. Grades\bin\Debug\net5.0\2. Grades.dll
+E:\C#\Fundamentals\04.Methods\lab\2. Grades\bin\Debug\net5.0\ref\2. Grades.dll
+E:\C#\Fundamentals\04.Methods\lab\2. Grades\bin\Debug\net5.0\2. Grades.pdb
+E:\C#\Fundamentals\04.Methods\lab\2. Grades\obj\Debug\net5.0\2. Grades.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\04.Methods\lab\2. Grades\obj\Debug\net5.0\2. Grades.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\04.Methods\lab\2. Grades\obj\Debug\net5.0\2. Grades.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\04.Methods\lab\2. Grades\obj\Debug\net5.0\2. Grades.AssemblyInfo.cs
+E:\C#\Fundamentals\04.Methods\lab\2. Grades\obj\Debug\net5.0\2. Grades.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\04.Methods\lab\2. Grades\obj\Debug\net5.0\2. Grades.dll
+E:\C#\Fundamentals\04.Methods\lab\2. Grades\obj\Debug\net5.0\ref\2. Grades.dll
+E:\C#\Fundamentals\04.Methods\lab\2. Grades\obj\Debug\net5.0\2. Grades.pdb
+E:\C#\Fundamentals\04.Methods\lab\2. Grades\obj\Debug\net5.0\2. Grades.genruntimeconfig.cache
