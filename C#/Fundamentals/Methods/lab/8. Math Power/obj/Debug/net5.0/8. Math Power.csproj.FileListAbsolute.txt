@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\04.Methods\lab\8. Math Power\bin\Debug\net5.0\8. Math Power.exe
+E:\C#\Fundamentals\04.Methods\lab\8. Math Power\bin\Debug\net5.0\8. Math Power.deps.json
+E:\C#\Fundamentals\04.Methods\lab\8. Math Power\bin\Debug\net5.0\8. Math Power.runtimeconfig.json
+E:\C#\Fundamentals\04.Methods\lab\8. Math Power\bin\Debug\net5.0\8. Math Power.runtimeconfig.dev.json
+E:\C#\Fundamentals\04.Methods\lab\8. Math Power\bin\Debug\net5.0\8. Math Power.dll
+E:\C#\Fundamentals\04.Methods\lab\8. Math Power\bin\Debug\net5.0\ref\8. Math Power.dll
+E:\C#\Fundamentals\04.Methods\lab\8. Math Power\bin\Debug\net5.0\8. Math Power.pdb
+E:\C#\Fundamentals\04.Methods\lab\8. Math Power\obj\Debug\net5.0\8. Math Power.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\04.Methods\lab\8. Math Power\obj\Debug\net5.0\8. Math Power.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\04.Methods\lab\8. Math Power\obj\Debug\net5.0\8. Math Power.AssemblyInfo.cs
+E:\C#\Fundamentals\04.Methods\lab\8. Math Power\obj\Debug\net5.0\8. Math Power.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\04.Methods\lab\8. Math Power\obj\Debug\net5.0\8. Math Power.dll
+E:\C#\Fundamentals\04.Methods\lab\8. Math Power\obj\Debug\net5.0\ref\8. Math Power.dll
+E:\C#\Fundamentals\04.Methods\lab\8. Math Power\obj\Debug\net5.0\8. Math Power.pdb
+E:\C#\Fundamentals\04.Methods\lab\8. Math Power\obj\Debug\net5.0\8. Math Power.genruntimeconfig.cache
