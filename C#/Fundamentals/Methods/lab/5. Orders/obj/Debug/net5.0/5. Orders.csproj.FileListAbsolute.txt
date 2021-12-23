@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\04.Methods\lab\5. Orders\bin\Debug\net5.0\5. Orders.exe
+E:\C#\Fundamentals\04.Methods\lab\5. Orders\bin\Debug\net5.0\5. Orders.deps.json
+E:\C#\Fundamentals\04.Methods\lab\5. Orders\bin\Debug\net5.0\5. Orders.runtimeconfig.json
+E:\C#\Fundamentals\04.Methods\lab\5. Orders\bin\Debug\net5.0\5. Orders.runtimeconfig.dev.json
+E:\C#\Fundamentals\04.Methods\lab\5. Orders\bin\Debug\net5.0\5. Orders.dll
+E:\C#\Fundamentals\04.Methods\lab\5. Orders\bin\Debug\net5.0\ref\5. Orders.dll
+E:\C#\Fundamentals\04.Methods\lab\5. Orders\bin\Debug\net5.0\5. Orders.pdb
+E:\C#\Fundamentals\04.Methods\lab\5. Orders\obj\Debug\net5.0\5. Orders.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\04.Methods\lab\5. Orders\obj\Debug\net5.0\5. Orders.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\04.Methods\lab\5. Orders\obj\Debug\net5.0\5. Orders.AssemblyInfo.cs
+E:\C#\Fundamentals\04.Methods\lab\5. Orders\obj\Debug\net5.0\5. Orders.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\04.Methods\lab\5. Orders\obj\Debug\net5.0\5. Orders.dll
+E:\C#\Fundamentals\04.Methods\lab\5. Orders\obj\Debug\net5.0\ref\5. Orders.dll
+E:\C#\Fundamentals\04.Methods\lab\5. Orders\obj\Debug\net5.0\5. Orders.pdb
+E:\C#\Fundamentals\04.Methods\lab\5. Orders\obj\Debug\net5.0\5. Orders.genruntimeconfig.cache
