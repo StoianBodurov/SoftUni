@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\03.Arrays\exercise\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.exe
+E:\C#\Fundamentals\03.Arrays\exercise\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.deps.json
+E:\C#\Fundamentals\03.Arrays\exercise\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.runtimeconfig.json
+E:\C#\Fundamentals\03.Arrays\exercise\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.runtimeconfig.dev.json
+E:\C#\Fundamentals\03.Arrays\exercise\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.dll
+E:\C#\Fundamentals\03.Arrays\exercise\6. Equal Sums\bin\Debug\net5.0\ref\6. Equal Sums.dll
+E:\C#\Fundamentals\03.Arrays\exercise\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.pdb
+E:\C#\Fundamentals\03.Arrays\exercise\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\03.Arrays\exercise\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\03.Arrays\exercise\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.AssemblyInfo.cs
+E:\C#\Fundamentals\03.Arrays\exercise\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\03.Arrays\exercise\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.dll
+E:\C#\Fundamentals\03.Arrays\exercise\6. Equal Sums\obj\Debug\net5.0\ref\6. Equal Sums.dll
+E:\C#\Fundamentals\03.Arrays\exercise\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.pdb
+E:\C#\Fundamentals\03.Arrays\exercise\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.genruntimeconfig.cache
