@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\03.Arrays\exercise\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.exe
+E:\C#\Fundamentals\03.Arrays\exercise\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.deps.json
+E:\C#\Fundamentals\03.Arrays\exercise\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.runtimeconfig.json
+E:\C#\Fundamentals\03.Arrays\exercise\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.runtimeconfig.dev.json
+E:\C#\Fundamentals\03.Arrays\exercise\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.dll
+E:\C#\Fundamentals\03.Arrays\exercise\8. Magic Sum\bin\Debug\net5.0\ref\8. Magic Sum.dll
+E:\C#\Fundamentals\03.Arrays\exercise\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.pdb
+E:\C#\Fundamentals\03.Arrays\exercise\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\03.Arrays\exercise\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\03.Arrays\exercise\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.AssemblyInfo.cs
+E:\C#\Fundamentals\03.Arrays\exercise\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\03.Arrays\exercise\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.dll
+E:\C#\Fundamentals\03.Arrays\exercise\8. Magic Sum\obj\Debug\net5.0\ref\8. Magic Sum.dll
+E:\C#\Fundamentals\03.Arrays\exercise\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.pdb
+E:\C#\Fundamentals\03.Arrays\exercise\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.genruntimeconfig.cache
