@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\05.Lists\lab\4. List of Products\obj\Debug\net5.0\4. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\05.Lists\lab\4. List of Products\obj\Debug\net5.0\4. List of Products.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\05.Lists\lab\4. List of Products\obj\Debug\net5.0\4. List of Products.AssemblyInfo.cs
+E:\C#\Fundamentals\05.Lists\lab\4. List of Products\obj\Debug\net5.0\4. List of Products.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\05.Lists\lab\4. List of Products\bin\Debug\net5.0\4. List of Products.exe
+E:\C#\Fundamentals\05.Lists\lab\4. List of Products\bin\Debug\net5.0\4. List of Products.deps.json
+E:\C#\Fundamentals\05.Lists\lab\4. List of Products\bin\Debug\net5.0\4. List of Products.runtimeconfig.json
+E:\C#\Fundamentals\05.Lists\lab\4. List of Products\bin\Debug\net5.0\4. List of Products.runtimeconfig.dev.json
+E:\C#\Fundamentals\05.Lists\lab\4. List of Products\bin\Debug\net5.0\4. List of Products.dll
+E:\C#\Fundamentals\05.Lists\lab\4. List of Products\bin\Debug\net5.0\ref\4. List of Products.dll
+E:\C#\Fundamentals\05.Lists\lab\4. List of Products\bin\Debug\net5.0\4. List of Products.pdb
+E:\C#\Fundamentals\05.Lists\lab\4. List of Products\obj\Debug\net5.0\4. List of Products.dll
+E:\C#\Fundamentals\05.Lists\lab\4. List of Products\obj\Debug\net5.0\ref\4. List of Products.dll
+E:\C#\Fundamentals\05.Lists\lab\4. List of Products\obj\Debug\net5.0\4. List of Products.pdb
+E:\C#\Fundamentals\05.Lists\lab\4. List of Products\obj\Debug\net5.0\4. List of Products.genruntimeconfig.cache
