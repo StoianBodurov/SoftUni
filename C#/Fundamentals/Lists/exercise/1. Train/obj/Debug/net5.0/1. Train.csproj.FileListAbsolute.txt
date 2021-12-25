@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\05.Lists\exercise\1. Train\bin\Debug\net5.0\1. Train.exe
+E:\C#\Fundamentals\05.Lists\exercise\1. Train\bin\Debug\net5.0\1. Train.deps.json
+E:\C#\Fundamentals\05.Lists\exercise\1. Train\bin\Debug\net5.0\1. Train.runtimeconfig.json
+E:\C#\Fundamentals\05.Lists\exercise\1. Train\bin\Debug\net5.0\1. Train.runtimeconfig.dev.json
+E:\C#\Fundamentals\05.Lists\exercise\1. Train\bin\Debug\net5.0\1. Train.dll
+E:\C#\Fundamentals\05.Lists\exercise\1. Train\bin\Debug\net5.0\ref\1. Train.dll
+E:\C#\Fundamentals\05.Lists\exercise\1. Train\bin\Debug\net5.0\1. Train.pdb
+E:\C#\Fundamentals\05.Lists\exercise\1. Train\obj\Debug\net5.0\1. Train.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\05.Lists\exercise\1. Train\obj\Debug\net5.0\1. Train.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\05.Lists\exercise\1. Train\obj\Debug\net5.0\1. Train.AssemblyInfo.cs
+E:\C#\Fundamentals\05.Lists\exercise\1. Train\obj\Debug\net5.0\1. Train.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\05.Lists\exercise\1. Train\obj\Debug\net5.0\1. Train.dll
+E:\C#\Fundamentals\05.Lists\exercise\1. Train\obj\Debug\net5.0\ref\1. Train.dll
+E:\C#\Fundamentals\05.Lists\exercise\1. Train\obj\Debug\net5.0\1. Train.pdb
+E:\C#\Fundamentals\05.Lists\exercise\1. Train\obj\Debug\net5.0\1. Train.genruntimeconfig.cache
