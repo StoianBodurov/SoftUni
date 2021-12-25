@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\04.Methods\exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.exe
+E:\C#\Fundamentals\04.Methods\exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.deps.json
+E:\C#\Fundamentals\04.Methods\exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.runtimeconfig.json
+E:\C#\Fundamentals\04.Methods\exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.runtimeconfig.dev.json
+E:\C#\Fundamentals\04.Methods\exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.dll
+E:\C#\Fundamentals\04.Methods\exercise\10. Top Number\bin\Debug\net5.0\ref\10. Top Number.dll
+E:\C#\Fundamentals\04.Methods\exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.pdb
+E:\C#\Fundamentals\04.Methods\exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\04.Methods\exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\04.Methods\exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.AssemblyInfo.cs
+E:\C#\Fundamentals\04.Methods\exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\04.Methods\exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.dll
+E:\C#\Fundamentals\04.Methods\exercise\10. Top Number\obj\Debug\net5.0\ref\10. Top Number.dll
+E:\C#\Fundamentals\04.Methods\exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.pdb
+E:\C#\Fundamentals\04.Methods\exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.genruntimeconfig.cache
