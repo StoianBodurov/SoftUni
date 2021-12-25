@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\05.Lists\lab\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.exe
+E:\C#\Fundamentals\05.Lists\lab\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.deps.json
+E:\C#\Fundamentals\05.Lists\lab\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.runtimeconfig.json
+E:\C#\Fundamentals\05.Lists\lab\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.runtimeconfig.dev.json
+E:\C#\Fundamentals\05.Lists\lab\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.dll
+E:\C#\Fundamentals\05.Lists\lab\3. Merging Lists\bin\Debug\net5.0\ref\3. Merging Lists.dll
+E:\C#\Fundamentals\05.Lists\lab\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.pdb
+E:\C#\Fundamentals\05.Lists\lab\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\05.Lists\lab\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\05.Lists\lab\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\05.Lists\lab\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.AssemblyInfo.cs
+E:\C#\Fundamentals\05.Lists\lab\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\05.Lists\lab\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.dll
+E:\C#\Fundamentals\05.Lists\lab\3. Merging Lists\obj\Debug\net5.0\ref\3. Merging Lists.dll
+E:\C#\Fundamentals\05.Lists\lab\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.pdb
+E:\C#\Fundamentals\05.Lists\lab\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.genruntimeconfig.cache
