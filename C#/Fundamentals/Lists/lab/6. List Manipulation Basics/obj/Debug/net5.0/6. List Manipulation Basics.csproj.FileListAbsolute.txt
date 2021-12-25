@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\05.Lists\lab\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.exe
+E:\C#\Fundamentals\05.Lists\lab\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.deps.json
+E:\C#\Fundamentals\05.Lists\lab\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.runtimeconfig.json
+E:\C#\Fundamentals\05.Lists\lab\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.runtimeconfig.dev.json
+E:\C#\Fundamentals\05.Lists\lab\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.dll
+E:\C#\Fundamentals\05.Lists\lab\6. List Manipulation Basics\bin\Debug\net5.0\ref\6. List Manipulation Basics.dll
+E:\C#\Fundamentals\05.Lists\lab\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.pdb
+E:\C#\Fundamentals\05.Lists\lab\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\05.Lists\lab\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\05.Lists\lab\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.AssemblyInfo.cs
+E:\C#\Fundamentals\05.Lists\lab\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\05.Lists\lab\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.dll
+E:\C#\Fundamentals\05.Lists\lab\6. List Manipulation Basics\obj\Debug\net5.0\ref\6. List Manipulation Basics.dll
+E:\C#\Fundamentals\05.Lists\lab\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.pdb
+E:\C#\Fundamentals\05.Lists\lab\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.genruntimeconfig.cache
