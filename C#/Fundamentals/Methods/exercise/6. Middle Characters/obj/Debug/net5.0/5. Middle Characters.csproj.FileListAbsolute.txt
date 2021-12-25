@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\04.Methods\exercise\5. Middle Characters\bin\Debug\net5.0\5. Middle Characters.exe
+E:\C#\Fundamentals\04.Methods\exercise\5. Middle Characters\bin\Debug\net5.0\5. Middle Characters.deps.json
+E:\C#\Fundamentals\04.Methods\exercise\5. Middle Characters\bin\Debug\net5.0\5. Middle Characters.runtimeconfig.json
+E:\C#\Fundamentals\04.Methods\exercise\5. Middle Characters\bin\Debug\net5.0\5. Middle Characters.runtimeconfig.dev.json
+E:\C#\Fundamentals\04.Methods\exercise\5. Middle Characters\bin\Debug\net5.0\5. Middle Characters.dll
+E:\C#\Fundamentals\04.Methods\exercise\5. Middle Characters\bin\Debug\net5.0\ref\5. Middle Characters.dll
+E:\C#\Fundamentals\04.Methods\exercise\5. Middle Characters\bin\Debug\net5.0\5. Middle Characters.pdb
+E:\C#\Fundamentals\04.Methods\exercise\5. Middle Characters\obj\Debug\net5.0\5. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\04.Methods\exercise\5. Middle Characters\obj\Debug\net5.0\5. Middle Characters.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\04.Methods\exercise\5. Middle Characters\obj\Debug\net5.0\5. Middle Characters.AssemblyInfo.cs
+E:\C#\Fundamentals\04.Methods\exercise\5. Middle Characters\obj\Debug\net5.0\5. Middle Characters.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\04.Methods\exercise\5. Middle Characters\obj\Debug\net5.0\5. Middle Characters.dll
+E:\C#\Fundamentals\04.Methods\exercise\5. Middle Characters\obj\Debug\net5.0\ref\5. Middle Characters.dll
+E:\C#\Fundamentals\04.Methods\exercise\5. Middle Characters\obj\Debug\net5.0\5. Middle Characters.pdb
+E:\C#\Fundamentals\04.Methods\exercise\5. Middle Characters\obj\Debug\net5.0\5. Middle Characters.genruntimeconfig.cache
