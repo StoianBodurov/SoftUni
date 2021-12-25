@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\05.Lists\exercise\2. Change List\bin\Debug\net5.0\2. Change List.exe
+E:\C#\Fundamentals\05.Lists\exercise\2. Change List\bin\Debug\net5.0\2. Change List.deps.json
+E:\C#\Fundamentals\05.Lists\exercise\2. Change List\bin\Debug\net5.0\2. Change List.runtimeconfig.json
+E:\C#\Fundamentals\05.Lists\exercise\2. Change List\bin\Debug\net5.0\2. Change List.runtimeconfig.dev.json
+E:\C#\Fundamentals\05.Lists\exercise\2. Change List\bin\Debug\net5.0\2. Change List.dll
+E:\C#\Fundamentals\05.Lists\exercise\2. Change List\bin\Debug\net5.0\ref\2. Change List.dll
+E:\C#\Fundamentals\05.Lists\exercise\2. Change List\bin\Debug\net5.0\2. Change List.pdb
+E:\C#\Fundamentals\05.Lists\exercise\2. Change List\obj\Debug\net5.0\2. Change List.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\05.Lists\exercise\2. Change List\obj\Debug\net5.0\2. Change List.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\05.Lists\exercise\2. Change List\obj\Debug\net5.0\2. Change List.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\05.Lists\exercise\2. Change List\obj\Debug\net5.0\2. Change List.AssemblyInfo.cs
+E:\C#\Fundamentals\05.Lists\exercise\2. Change List\obj\Debug\net5.0\2. Change List.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\05.Lists\exercise\2. Change List\obj\Debug\net5.0\2. Change List.dll
+E:\C#\Fundamentals\05.Lists\exercise\2. Change List\obj\Debug\net5.0\ref\2. Change List.dll
+E:\C#\Fundamentals\05.Lists\exercise\2. Change List\obj\Debug\net5.0\2. Change List.pdb
+E:\C#\Fundamentals\05.Lists\exercise\2. Change List\obj\Debug\net5.0\2. Change List.genruntimeconfig.cache
