@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\04.Methods\exercise\7. Factorial Division\bin\Debug\net5.0\7. Factorial Division.exe
+E:\C#\Fundamentals\04.Methods\exercise\7. Factorial Division\bin\Debug\net5.0\7. Factorial Division.deps.json
+E:\C#\Fundamentals\04.Methods\exercise\7. Factorial Division\bin\Debug\net5.0\7. Factorial Division.runtimeconfig.json
+E:\C#\Fundamentals\04.Methods\exercise\7. Factorial Division\bin\Debug\net5.0\7. Factorial Division.runtimeconfig.dev.json
+E:\C#\Fundamentals\04.Methods\exercise\7. Factorial Division\bin\Debug\net5.0\7. Factorial Division.dll
+E:\C#\Fundamentals\04.Methods\exercise\7. Factorial Division\bin\Debug\net5.0\ref\7. Factorial Division.dll
+E:\C#\Fundamentals\04.Methods\exercise\7. Factorial Division\bin\Debug\net5.0\7. Factorial Division.pdb
+E:\C#\Fundamentals\04.Methods\exercise\7. Factorial Division\obj\Debug\net5.0\7. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\04.Methods\exercise\7. Factorial Division\obj\Debug\net5.0\7. Factorial Division.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\04.Methods\exercise\7. Factorial Division\obj\Debug\net5.0\7. Factorial Division.AssemblyInfo.cs
+E:\C#\Fundamentals\04.Methods\exercise\7. Factorial Division\obj\Debug\net5.0\7. Factorial Division.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\04.Methods\exercise\7. Factorial Division\obj\Debug\net5.0\7. Factorial Division.dll
+E:\C#\Fundamentals\04.Methods\exercise\7. Factorial Division\obj\Debug\net5.0\ref\7. Factorial Division.dll
+E:\C#\Fundamentals\04.Methods\exercise\7. Factorial Division\obj\Debug\net5.0\7. Factorial Division.pdb
+E:\C#\Fundamentals\04.Methods\exercise\7. Factorial Division\obj\Debug\net5.0\7. Factorial Division.genruntimeconfig.cache
