@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\04.Methods\exercise\9. Palindrome Integers\obj\Debug\net5.0\9. Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\04.Methods\exercise\9. Palindrome Integers\obj\Debug\net5.0\9. Palindrome Integers.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\04.Methods\exercise\9. Palindrome Integers\obj\Debug\net5.0\9. Palindrome Integers.AssemblyInfo.cs
+E:\C#\Fundamentals\04.Methods\exercise\9. Palindrome Integers\obj\Debug\net5.0\9. Palindrome Integers.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\04.Methods\exercise\9. Palindrome Integers\bin\Debug\net5.0\9. Palindrome Integers.exe
+E:\C#\Fundamentals\04.Methods\exercise\9. Palindrome Integers\bin\Debug\net5.0\9. Palindrome Integers.deps.json
+E:\C#\Fundamentals\04.Methods\exercise\9. Palindrome Integers\bin\Debug\net5.0\9. Palindrome Integers.runtimeconfig.json
+E:\C#\Fundamentals\04.Methods\exercise\9. Palindrome Integers\bin\Debug\net5.0\9. Palindrome Integers.runtimeconfig.dev.json
+E:\C#\Fundamentals\04.Methods\exercise\9. Palindrome Integers\bin\Debug\net5.0\9. Palindrome Integers.dll
+E:\C#\Fundamentals\04.Methods\exercise\9. Palindrome Integers\bin\Debug\net5.0\ref\9. Palindrome Integers.dll
+E:\C#\Fundamentals\04.Methods\exercise\9. Palindrome Integers\bin\Debug\net5.0\9. Palindrome Integers.pdb
+E:\C#\Fundamentals\04.Methods\exercise\9. Palindrome Integers\obj\Debug\net5.0\9. Palindrome Integers.dll
+E:\C#\Fundamentals\04.Methods\exercise\9. Palindrome Integers\obj\Debug\net5.0\ref\9. Palindrome Integers.dll
+E:\C#\Fundamentals\04.Methods\exercise\9. Palindrome Integers\obj\Debug\net5.0\9. Palindrome Integers.pdb
+E:\C#\Fundamentals\04.Methods\exercise\9. Palindrome Integers\obj\Debug\net5.0\9. Palindrome Integers.genruntimeconfig.cache
