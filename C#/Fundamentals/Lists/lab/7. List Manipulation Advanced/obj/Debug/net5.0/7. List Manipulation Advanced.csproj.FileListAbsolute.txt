@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\05.Lists\lab\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.exe
+E:\C#\Fundamentals\05.Lists\lab\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.deps.json
+E:\C#\Fundamentals\05.Lists\lab\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.runtimeconfig.json
+E:\C#\Fundamentals\05.Lists\lab\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.runtimeconfig.dev.json
+E:\C#\Fundamentals\05.Lists\lab\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.dll
+E:\C#\Fundamentals\05.Lists\lab\7. List Manipulation Advanced\bin\Debug\net5.0\ref\7. List Manipulation Advanced.dll
+E:\C#\Fundamentals\05.Lists\lab\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.pdb
+E:\C#\Fundamentals\05.Lists\lab\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\05.Lists\lab\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\05.Lists\lab\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.AssemblyInfo.cs
+E:\C#\Fundamentals\05.Lists\lab\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\05.Lists\lab\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.dll
+E:\C#\Fundamentals\05.Lists\lab\7. List Manipulation Advanced\obj\Debug\net5.0\ref\7. List Manipulation Advanced.dll
+E:\C#\Fundamentals\05.Lists\lab\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.pdb
+E:\C#\Fundamentals\05.Lists\lab\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.genruntimeconfig.cache
