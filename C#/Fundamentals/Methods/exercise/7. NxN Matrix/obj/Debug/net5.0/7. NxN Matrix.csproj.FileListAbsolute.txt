@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\04.Methods\exercise\7. NxN Matrix\bin\Debug\net5.0\7. NxN Matrix.exe
+E:\C#\Fundamentals\04.Methods\exercise\7. NxN Matrix\bin\Debug\net5.0\7. NxN Matrix.deps.json
+E:\C#\Fundamentals\04.Methods\exercise\7. NxN Matrix\bin\Debug\net5.0\7. NxN Matrix.runtimeconfig.json
+E:\C#\Fundamentals\04.Methods\exercise\7. NxN Matrix\bin\Debug\net5.0\7. NxN Matrix.runtimeconfig.dev.json
+E:\C#\Fundamentals\04.Methods\exercise\7. NxN Matrix\bin\Debug\net5.0\7. NxN Matrix.dll
+E:\C#\Fundamentals\04.Methods\exercise\7. NxN Matrix\bin\Debug\net5.0\ref\7. NxN Matrix.dll
+E:\C#\Fundamentals\04.Methods\exercise\7. NxN Matrix\bin\Debug\net5.0\7. NxN Matrix.pdb
+E:\C#\Fundamentals\04.Methods\exercise\7. NxN Matrix\obj\Debug\net5.0\7. NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\04.Methods\exercise\7. NxN Matrix\obj\Debug\net5.0\7. NxN Matrix.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\04.Methods\exercise\7. NxN Matrix\obj\Debug\net5.0\7. NxN Matrix.AssemblyInfo.cs
+E:\C#\Fundamentals\04.Methods\exercise\7. NxN Matrix\obj\Debug\net5.0\7. NxN Matrix.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\04.Methods\exercise\7. NxN Matrix\obj\Debug\net5.0\7. NxN Matrix.dll
+E:\C#\Fundamentals\04.Methods\exercise\7. NxN Matrix\obj\Debug\net5.0\ref\7. NxN Matrix.dll
+E:\C#\Fundamentals\04.Methods\exercise\7. NxN Matrix\obj\Debug\net5.0\7. NxN Matrix.pdb
+E:\C#\Fundamentals\04.Methods\exercise\7. NxN Matrix\obj\Debug\net5.0\7. NxN Matrix.genruntimeconfig.cache
