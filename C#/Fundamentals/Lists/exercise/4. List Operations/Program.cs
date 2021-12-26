@@ -32,18 +32,19 @@ namespace _4._List_Operations
                         if (CorerctIndex(numbers, index))
                         {
                             numbers.Insert(index, number);
-                            Console.WriteLine("Invalid index");
-
+                            break;
                         }
+                        Console.WriteLine("Invalid index");
                         break;
                     case "Remove":
                         index = int.Parse(tokens[1]);
                         if (CorerctIndex(numbers , index))
                         {
                             numbers.RemoveAt(index);
-                            Console.WriteLine("Invalid index");
+                            break;
 
                         }
+                        Console.WriteLine("Invalid index");
                         break;
                     case "Shift":
                         string position = tokens[1];
@@ -68,22 +69,32 @@ namespace _4._List_Operations
         {
             if (position == "left")
             {
-                for (int i = 0; i < count; i++)
-                {
-                    int temp = numbers[0];
-                    numbers.RemoveAt(0);
-                    numbers.Add(temp);
-                }
+                ShiftLeft(numbers, count);
             }
             else
             {
-                for (int i = 0; i < count; i++)
-                {
-                    int temp = numbers[numbers.Count() - 1];
-                    numbers.RemoveAt(numbers.Count() - 1);
-                    numbers.Insert(0, temp);
-                }
+                ShiftRight(numbers, count);
 
+            }
+        }
+
+         static void ShiftRight(List<int> numbers, int count)
+        {
+            for (int i = 0; i < count; i++)
+            {
+                int temp = numbers[numbers.Count() - 1];
+                numbers.RemoveAt(numbers.Count() - 1);
+                numbers.Insert(0, temp);
+            }
+        }
+
+        static void ShiftLeft(List<int> numbers, int count)
+        {
+            for (int i = 0; i < count; i++)
+            {
+                int temp = numbers[0];
+                numbers.RemoveAt(0);
+                numbers.Add(temp);
             }
         }
     }
