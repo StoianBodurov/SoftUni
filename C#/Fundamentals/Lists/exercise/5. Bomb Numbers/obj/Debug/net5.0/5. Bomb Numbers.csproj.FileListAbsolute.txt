@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\05.Lists\exercise\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.exe
+E:\C#\Fundamentals\05.Lists\exercise\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.deps.json
+E:\C#\Fundamentals\05.Lists\exercise\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.runtimeconfig.json
+E:\C#\Fundamentals\05.Lists\exercise\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.runtimeconfig.dev.json
+E:\C#\Fundamentals\05.Lists\exercise\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.dll
+E:\C#\Fundamentals\05.Lists\exercise\5. Bomb Numbers\bin\Debug\net5.0\ref\5. Bomb Numbers.dll
+E:\C#\Fundamentals\05.Lists\exercise\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.pdb
+E:\C#\Fundamentals\05.Lists\exercise\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\05.Lists\exercise\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\05.Lists\exercise\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\05.Lists\exercise\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.AssemblyInfo.cs
+E:\C#\Fundamentals\05.Lists\exercise\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\05.Lists\exercise\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.dll
+E:\C#\Fundamentals\05.Lists\exercise\5. Bomb Numbers\obj\Debug\net5.0\ref\5. Bomb Numbers.dll
+E:\C#\Fundamentals\05.Lists\exercise\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.pdb
+E:\C#\Fundamentals\05.Lists\exercise\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.genruntimeconfig.cache
