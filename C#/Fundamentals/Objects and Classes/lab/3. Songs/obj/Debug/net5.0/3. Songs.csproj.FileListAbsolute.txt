@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\06.Objects and Classes\lab\3. Songs\bin\Debug\net5.0\3. Songs.exe
+E:\C#\Fundamentals\06.Objects and Classes\lab\3. Songs\bin\Debug\net5.0\3. Songs.deps.json
+E:\C#\Fundamentals\06.Objects and Classes\lab\3. Songs\bin\Debug\net5.0\3. Songs.runtimeconfig.json
+E:\C#\Fundamentals\06.Objects and Classes\lab\3. Songs\bin\Debug\net5.0\3. Songs.runtimeconfig.dev.json
+E:\C#\Fundamentals\06.Objects and Classes\lab\3. Songs\bin\Debug\net5.0\3. Songs.dll
+E:\C#\Fundamentals\06.Objects and Classes\lab\3. Songs\bin\Debug\net5.0\ref\3. Songs.dll
+E:\C#\Fundamentals\06.Objects and Classes\lab\3. Songs\bin\Debug\net5.0\3. Songs.pdb
+E:\C#\Fundamentals\06.Objects and Classes\lab\3. Songs\obj\Debug\net5.0\3. Songs.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\06.Objects and Classes\lab\3. Songs\obj\Debug\net5.0\3. Songs.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\06.Objects and Classes\lab\3. Songs\obj\Debug\net5.0\3. Songs.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\06.Objects and Classes\lab\3. Songs\obj\Debug\net5.0\3. Songs.AssemblyInfo.cs
+E:\C#\Fundamentals\06.Objects and Classes\lab\3. Songs\obj\Debug\net5.0\3. Songs.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\06.Objects and Classes\lab\3. Songs\obj\Debug\net5.0\3. Songs.dll
+E:\C#\Fundamentals\06.Objects and Classes\lab\3. Songs\obj\Debug\net5.0\ref\3. Songs.dll
+E:\C#\Fundamentals\06.Objects and Classes\lab\3. Songs\obj\Debug\net5.0\3. Songs.pdb
+E:\C#\Fundamentals\06.Objects and Classes\lab\3. Songs\obj\Debug\net5.0\3. Songs.genruntimeconfig.cache
