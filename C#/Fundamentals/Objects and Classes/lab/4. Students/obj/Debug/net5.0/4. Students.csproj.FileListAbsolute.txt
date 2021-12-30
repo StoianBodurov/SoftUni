@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\06.Objects and Classes\lab\4. Students\bin\Debug\net5.0\4. Students.exe
+E:\C#\Fundamentals\06.Objects and Classes\lab\4. Students\bin\Debug\net5.0\4. Students.deps.json
+E:\C#\Fundamentals\06.Objects and Classes\lab\4. Students\bin\Debug\net5.0\4. Students.runtimeconfig.json
+E:\C#\Fundamentals\06.Objects and Classes\lab\4. Students\bin\Debug\net5.0\4. Students.runtimeconfig.dev.json
+E:\C#\Fundamentals\06.Objects and Classes\lab\4. Students\bin\Debug\net5.0\4. Students.dll
+E:\C#\Fundamentals\06.Objects and Classes\lab\4. Students\bin\Debug\net5.0\ref\4. Students.dll
+E:\C#\Fundamentals\06.Objects and Classes\lab\4. Students\bin\Debug\net5.0\4. Students.pdb
+E:\C#\Fundamentals\06.Objects and Classes\lab\4. Students\obj\Debug\net5.0\4. Students.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\06.Objects and Classes\lab\4. Students\obj\Debug\net5.0\4. Students.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\06.Objects and Classes\lab\4. Students\obj\Debug\net5.0\4. Students.AssemblyInfo.cs
+E:\C#\Fundamentals\06.Objects and Classes\lab\4. Students\obj\Debug\net5.0\4. Students.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\06.Objects and Classes\lab\4. Students\obj\Debug\net5.0\4. Students.dll
+E:\C#\Fundamentals\06.Objects and Classes\lab\4. Students\obj\Debug\net5.0\ref\4. Students.dll
+E:\C#\Fundamentals\06.Objects and Classes\lab\4. Students\obj\Debug\net5.0\4. Students.pdb
+E:\C#\Fundamentals\06.Objects and Classes\lab\4. Students\obj\Debug\net5.0\4. Students.genruntimeconfig.cache
