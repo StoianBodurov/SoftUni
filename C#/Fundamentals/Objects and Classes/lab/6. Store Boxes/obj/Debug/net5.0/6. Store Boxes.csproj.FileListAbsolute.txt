@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\06.Objects and Classes\lab\6. Store Boxes\bin\Debug\net5.0\6. Store Boxes.exe
+E:\C#\Fundamentals\06.Objects and Classes\lab\6. Store Boxes\bin\Debug\net5.0\6. Store Boxes.deps.json
+E:\C#\Fundamentals\06.Objects and Classes\lab\6. Store Boxes\bin\Debug\net5.0\6. Store Boxes.runtimeconfig.json
+E:\C#\Fundamentals\06.Objects and Classes\lab\6. Store Boxes\bin\Debug\net5.0\6. Store Boxes.runtimeconfig.dev.json
+E:\C#\Fundamentals\06.Objects and Classes\lab\6. Store Boxes\bin\Debug\net5.0\6. Store Boxes.dll
+E:\C#\Fundamentals\06.Objects and Classes\lab\6. Store Boxes\bin\Debug\net5.0\ref\6. Store Boxes.dll
+E:\C#\Fundamentals\06.Objects and Classes\lab\6. Store Boxes\bin\Debug\net5.0\6. Store Boxes.pdb
+E:\C#\Fundamentals\06.Objects and Classes\lab\6. Store Boxes\obj\Debug\net5.0\6. Store Boxes.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\06.Objects and Classes\lab\6. Store Boxes\obj\Debug\net5.0\6. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\06.Objects and Classes\lab\6. Store Boxes\obj\Debug\net5.0\6. Store Boxes.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\06.Objects and Classes\lab\6. Store Boxes\obj\Debug\net5.0\6. Store Boxes.AssemblyInfo.cs
+E:\C#\Fundamentals\06.Objects and Classes\lab\6. Store Boxes\obj\Debug\net5.0\6. Store Boxes.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\06.Objects and Classes\lab\6. Store Boxes\obj\Debug\net5.0\6. Store Boxes.dll
+E:\C#\Fundamentals\06.Objects and Classes\lab\6. Store Boxes\obj\Debug\net5.0\ref\6. Store Boxes.dll
+E:\C#\Fundamentals\06.Objects and Classes\lab\6. Store Boxes\obj\Debug\net5.0\6. Store Boxes.pdb
+E:\C#\Fundamentals\06.Objects and Classes\lab\6. Store Boxes\obj\Debug\net5.0\6. Store Boxes.genruntimeconfig.cache
