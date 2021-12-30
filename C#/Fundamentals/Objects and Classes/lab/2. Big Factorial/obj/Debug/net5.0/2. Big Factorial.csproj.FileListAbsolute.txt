@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\06.Objects and Classes\lab\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.exe
+E:\C#\Fundamentals\06.Objects and Classes\lab\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.deps.json
+E:\C#\Fundamentals\06.Objects and Classes\lab\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.runtimeconfig.json
+E:\C#\Fundamentals\06.Objects and Classes\lab\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.runtimeconfig.dev.json
+E:\C#\Fundamentals\06.Objects and Classes\lab\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.dll
+E:\C#\Fundamentals\06.Objects and Classes\lab\2. Big Factorial\bin\Debug\net5.0\ref\2. Big Factorial.dll
+E:\C#\Fundamentals\06.Objects and Classes\lab\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.pdb
+E:\C#\Fundamentals\06.Objects and Classes\lab\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\06.Objects and Classes\lab\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\06.Objects and Classes\lab\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\06.Objects and Classes\lab\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.AssemblyInfo.cs
+E:\C#\Fundamentals\06.Objects and Classes\lab\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\06.Objects and Classes\lab\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.dll
+E:\C#\Fundamentals\06.Objects and Classes\lab\2. Big Factorial\obj\Debug\net5.0\ref\2. Big Factorial.dll
+E:\C#\Fundamentals\06.Objects and Classes\lab\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.pdb
+E:\C#\Fundamentals\06.Objects and Classes\lab\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.genruntimeconfig.cache
