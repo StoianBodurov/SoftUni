@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\06.Objects and Classes\exercise\2. Articles\bin\Debug\net5.0\2. Articles.exe
+E:\C#\Fundamentals\06.Objects and Classes\exercise\2. Articles\bin\Debug\net5.0\2. Articles.deps.json
+E:\C#\Fundamentals\06.Objects and Classes\exercise\2. Articles\bin\Debug\net5.0\2. Articles.runtimeconfig.json
+E:\C#\Fundamentals\06.Objects and Classes\exercise\2. Articles\bin\Debug\net5.0\2. Articles.runtimeconfig.dev.json
+E:\C#\Fundamentals\06.Objects and Classes\exercise\2. Articles\bin\Debug\net5.0\2. Articles.dll
+E:\C#\Fundamentals\06.Objects and Classes\exercise\2. Articles\bin\Debug\net5.0\ref\2. Articles.dll
+E:\C#\Fundamentals\06.Objects and Classes\exercise\2. Articles\bin\Debug\net5.0\2. Articles.pdb
+E:\C#\Fundamentals\06.Objects and Classes\exercise\2. Articles\obj\Debug\net5.0\2. Articles.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\06.Objects and Classes\exercise\2. Articles\obj\Debug\net5.0\2. Articles.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\06.Objects and Classes\exercise\2. Articles\obj\Debug\net5.0\2. Articles.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\06.Objects and Classes\exercise\2. Articles\obj\Debug\net5.0\2. Articles.AssemblyInfo.cs
+E:\C#\Fundamentals\06.Objects and Classes\exercise\2. Articles\obj\Debug\net5.0\2. Articles.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\06.Objects and Classes\exercise\2. Articles\obj\Debug\net5.0\2. Articles.dll
+E:\C#\Fundamentals\06.Objects and Classes\exercise\2. Articles\obj\Debug\net5.0\ref\2. Articles.dll
+E:\C#\Fundamentals\06.Objects and Classes\exercise\2. Articles\obj\Debug\net5.0\2. Articles.pdb
+E:\C#\Fundamentals\06.Objects and Classes\exercise\2. Articles\obj\Debug\net5.0\2. Articles.genruntimeconfig.cache
