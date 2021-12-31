@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\06.Objects and Classes\exercise\1. Advertisement Message\bin\Debug\net5.0\1. Advertisement Message.exe
+E:\C#\Fundamentals\06.Objects and Classes\exercise\1. Advertisement Message\bin\Debug\net5.0\1. Advertisement Message.deps.json
+E:\C#\Fundamentals\06.Objects and Classes\exercise\1. Advertisement Message\bin\Debug\net5.0\1. Advertisement Message.runtimeconfig.json
+E:\C#\Fundamentals\06.Objects and Classes\exercise\1. Advertisement Message\bin\Debug\net5.0\1. Advertisement Message.runtimeconfig.dev.json
+E:\C#\Fundamentals\06.Objects and Classes\exercise\1. Advertisement Message\bin\Debug\net5.0\1. Advertisement Message.dll
+E:\C#\Fundamentals\06.Objects and Classes\exercise\1. Advertisement Message\bin\Debug\net5.0\ref\1. Advertisement Message.dll
+E:\C#\Fundamentals\06.Objects and Classes\exercise\1. Advertisement Message\bin\Debug\net5.0\1. Advertisement Message.pdb
+E:\C#\Fundamentals\06.Objects and Classes\exercise\1. Advertisement Message\obj\Debug\net5.0\1. Advertisement Message.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\06.Objects and Classes\exercise\1. Advertisement Message\obj\Debug\net5.0\1. Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\06.Objects and Classes\exercise\1. Advertisement Message\obj\Debug\net5.0\1. Advertisement Message.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\06.Objects and Classes\exercise\1. Advertisement Message\obj\Debug\net5.0\1. Advertisement Message.AssemblyInfo.cs
+E:\C#\Fundamentals\06.Objects and Classes\exercise\1. Advertisement Message\obj\Debug\net5.0\1. Advertisement Message.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\06.Objects and Classes\exercise\1. Advertisement Message\obj\Debug\net5.0\1. Advertisement Message.dll
+E:\C#\Fundamentals\06.Objects and Classes\exercise\1. Advertisement Message\obj\Debug\net5.0\ref\1. Advertisement Message.dll
+E:\C#\Fundamentals\06.Objects and Classes\exercise\1. Advertisement Message\obj\Debug\net5.0\1. Advertisement Message.pdb
+E:\C#\Fundamentals\06.Objects and Classes\exercise\1. Advertisement Message\obj\Debug\net5.0\1. Advertisement Message.genruntimeconfig.cache
