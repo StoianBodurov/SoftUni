@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\06.Objects and Classes\exercise\7. Order by Age\bin\Debug\net5.0\7. Order by Age.exe
+E:\C#\Fundamentals\06.Objects and Classes\exercise\7. Order by Age\bin\Debug\net5.0\7. Order by Age.deps.json
+E:\C#\Fundamentals\06.Objects and Classes\exercise\7. Order by Age\bin\Debug\net5.0\7. Order by Age.runtimeconfig.json
+E:\C#\Fundamentals\06.Objects and Classes\exercise\7. Order by Age\bin\Debug\net5.0\7. Order by Age.runtimeconfig.dev.json
+E:\C#\Fundamentals\06.Objects and Classes\exercise\7. Order by Age\bin\Debug\net5.0\7. Order by Age.dll
+E:\C#\Fundamentals\06.Objects and Classes\exercise\7. Order by Age\bin\Debug\net5.0\ref\7. Order by Age.dll
+E:\C#\Fundamentals\06.Objects and Classes\exercise\7. Order by Age\bin\Debug\net5.0\7. Order by Age.pdb
+E:\C#\Fundamentals\06.Objects and Classes\exercise\7. Order by Age\obj\Debug\net5.0\7. Order by Age.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\06.Objects and Classes\exercise\7. Order by Age\obj\Debug\net5.0\7. Order by Age.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\06.Objects and Classes\exercise\7. Order by Age\obj\Debug\net5.0\7. Order by Age.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\06.Objects and Classes\exercise\7. Order by Age\obj\Debug\net5.0\7. Order by Age.AssemblyInfo.cs
+E:\C#\Fundamentals\06.Objects and Classes\exercise\7. Order by Age\obj\Debug\net5.0\7. Order by Age.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\06.Objects and Classes\exercise\7. Order by Age\obj\Debug\net5.0\7. Order by Age.dll
+E:\C#\Fundamentals\06.Objects and Classes\exercise\7. Order by Age\obj\Debug\net5.0\ref\7. Order by Age.dll
+E:\C#\Fundamentals\06.Objects and Classes\exercise\7. Order by Age\obj\Debug\net5.0\7. Order by Age.pdb
+E:\C#\Fundamentals\06.Objects and Classes\exercise\7. Order by Age\obj\Debug\net5.0\7. Order by Age.genruntimeconfig.cache
