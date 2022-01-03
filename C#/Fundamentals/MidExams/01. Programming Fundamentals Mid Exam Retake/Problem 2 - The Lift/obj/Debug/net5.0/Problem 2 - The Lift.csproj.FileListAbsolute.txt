@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 2 - The Lift\bin\Debug\net5.0\Problem 2 - The Lift.exe
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 2 - The Lift\bin\Debug\net5.0\Problem 2 - The Lift.deps.json
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 2 - The Lift\bin\Debug\net5.0\Problem 2 - The Lift.runtimeconfig.json
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 2 - The Lift\bin\Debug\net5.0\Problem 2 - The Lift.runtimeconfig.dev.json
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 2 - The Lift\bin\Debug\net5.0\Problem 2 - The Lift.dll
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 2 - The Lift\bin\Debug\net5.0\ref\Problem 2 - The Lift.dll
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 2 - The Lift\bin\Debug\net5.0\Problem 2 - The Lift.pdb
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 2 - The Lift\obj\Debug\net5.0\Problem 2 - The Lift.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 2 - The Lift\obj\Debug\net5.0\Problem 2 - The Lift.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 2 - The Lift\obj\Debug\net5.0\Problem 2 - The Lift.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 2 - The Lift\obj\Debug\net5.0\Problem 2 - The Lift.AssemblyInfo.cs
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 2 - The Lift\obj\Debug\net5.0\Problem 2 - The Lift.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 2 - The Lift\obj\Debug\net5.0\Problem 2 - The Lift.dll
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 2 - The Lift\obj\Debug\net5.0\ref\Problem 2 - The Lift.dll
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 2 - The Lift\obj\Debug\net5.0\Problem 2 - The Lift.pdb
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 2 - The Lift\obj\Debug\net5.0\Problem 2 - The Lift.genruntimeconfig.cache
