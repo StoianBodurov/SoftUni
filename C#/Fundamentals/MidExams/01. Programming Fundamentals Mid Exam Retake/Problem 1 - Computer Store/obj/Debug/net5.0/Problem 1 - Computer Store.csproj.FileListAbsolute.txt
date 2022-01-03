@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 1 - Computer Store\bin\Debug\net5.0\Problem 1 - Computer Store.exe
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 1 - Computer Store\bin\Debug\net5.0\Problem 1 - Computer Store.deps.json
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 1 - Computer Store\bin\Debug\net5.0\Problem 1 - Computer Store.runtimeconfig.json
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 1 - Computer Store\bin\Debug\net5.0\Problem 1 - Computer Store.runtimeconfig.dev.json
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 1 - Computer Store\bin\Debug\net5.0\Problem 1 - Computer Store.dll
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 1 - Computer Store\bin\Debug\net5.0\ref\Problem 1 - Computer Store.dll
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 1 - Computer Store\bin\Debug\net5.0\Problem 1 - Computer Store.pdb
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 1 - Computer Store\obj\Debug\net5.0\Problem 1 - Computer Store.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 1 - Computer Store\obj\Debug\net5.0\Problem 1 - Computer Store.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 1 - Computer Store\obj\Debug\net5.0\Problem 1 - Computer Store.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 1 - Computer Store\obj\Debug\net5.0\Problem 1 - Computer Store.AssemblyInfo.cs
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 1 - Computer Store\obj\Debug\net5.0\Problem 1 - Computer Store.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 1 - Computer Store\obj\Debug\net5.0\Problem 1 - Computer Store.dll
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 1 - Computer Store\obj\Debug\net5.0\ref\Problem 1 - Computer Store.dll
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 1 - Computer Store\obj\Debug\net5.0\Problem 1 - Computer Store.pdb
+E:\C#\Fundamentals\13.MidExams\01. Programming Fundamentals Mid Exam Retake\solution\Problem 1 - Computer Store\obj\Debug\net5.0\Problem 1 - Computer Store.genruntimeconfig.cache
