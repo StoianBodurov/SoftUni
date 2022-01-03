@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 1 - SoftUni Reception\bin\Debug\net5.0\Problem 1 - SoftUni Reception.exe
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 1 - SoftUni Reception\bin\Debug\net5.0\Problem 1 - SoftUni Reception.deps.json
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 1 - SoftUni Reception\bin\Debug\net5.0\Problem 1 - SoftUni Reception.runtimeconfig.json
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 1 - SoftUni Reception\bin\Debug\net5.0\Problem 1 - SoftUni Reception.runtimeconfig.dev.json
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 1 - SoftUni Reception\bin\Debug\net5.0\Problem 1 - SoftUni Reception.dll
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 1 - SoftUni Reception\bin\Debug\net5.0\ref\Problem 1 - SoftUni Reception.dll
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 1 - SoftUni Reception\bin\Debug\net5.0\Problem 1 - SoftUni Reception.pdb
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 1 - SoftUni Reception\obj\Debug\net5.0\Problem 1 - SoftUni Reception.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 1 - SoftUni Reception\obj\Debug\net5.0\Problem 1 - SoftUni Reception.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 1 - SoftUni Reception\obj\Debug\net5.0\Problem 1 - SoftUni Reception.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 1 - SoftUni Reception\obj\Debug\net5.0\Problem 1 - SoftUni Reception.AssemblyInfo.cs
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 1 - SoftUni Reception\obj\Debug\net5.0\Problem 1 - SoftUni Reception.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 1 - SoftUni Reception\obj\Debug\net5.0\Problem 1 - SoftUni Reception.dll
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 1 - SoftUni Reception\obj\Debug\net5.0\ref\Problem 1 - SoftUni Reception.dll
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 1 - SoftUni Reception\obj\Debug\net5.0\Problem 1 - SoftUni Reception.pdb
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 1 - SoftUni Reception\obj\Debug\net5.0\Problem 1 - SoftUni Reception.genruntimeconfig.cache
