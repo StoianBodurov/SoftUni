@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 3 - Numbers\bin\Debug\net5.0\Problem 3 - Numbers.exe
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 3 - Numbers\bin\Debug\net5.0\Problem 3 - Numbers.deps.json
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 3 - Numbers\bin\Debug\net5.0\Problem 3 - Numbers.runtimeconfig.json
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 3 - Numbers\bin\Debug\net5.0\Problem 3 - Numbers.runtimeconfig.dev.json
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 3 - Numbers\bin\Debug\net5.0\Problem 3 - Numbers.dll
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 3 - Numbers\bin\Debug\net5.0\ref\Problem 3 - Numbers.dll
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 3 - Numbers\bin\Debug\net5.0\Problem 3 - Numbers.pdb
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 3 - Numbers\obj\Debug\net5.0\Problem 3 - Numbers.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 3 - Numbers\obj\Debug\net5.0\Problem 3 - Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 3 - Numbers\obj\Debug\net5.0\Problem 3 - Numbers.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 3 - Numbers\obj\Debug\net5.0\Problem 3 - Numbers.AssemblyInfo.cs
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 3 - Numbers\obj\Debug\net5.0\Problem 3 - Numbers.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 3 - Numbers\obj\Debug\net5.0\Problem 3 - Numbers.dll
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 3 - Numbers\obj\Debug\net5.0\ref\Problem 3 - Numbers.dll
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 3 - Numbers\obj\Debug\net5.0\Problem 3 - Numbers.pdb
+E:\C#\Fundamentals\13.MidExams\02. Programming Fundamentals Mid Exam\solution\Problem 3 - Numbers\obj\Debug\net5.0\Problem 3 - Numbers.genruntimeconfig.cache
