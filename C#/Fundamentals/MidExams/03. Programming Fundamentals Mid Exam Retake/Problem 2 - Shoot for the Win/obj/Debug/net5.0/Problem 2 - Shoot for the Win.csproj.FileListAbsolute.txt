@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 2 - Shoot for the Win\bin\Debug\net5.0\Problem 2 - Shoot for the Win.exe
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 2 - Shoot for the Win\bin\Debug\net5.0\Problem 2 - Shoot for the Win.deps.json
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 2 - Shoot for the Win\bin\Debug\net5.0\Problem 2 - Shoot for the Win.runtimeconfig.json
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 2 - Shoot for the Win\bin\Debug\net5.0\Problem 2 - Shoot for the Win.runtimeconfig.dev.json
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 2 - Shoot for the Win\bin\Debug\net5.0\Problem 2 - Shoot for the Win.dll
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 2 - Shoot for the Win\bin\Debug\net5.0\ref\Problem 2 - Shoot for the Win.dll
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 2 - Shoot for the Win\bin\Debug\net5.0\Problem 2 - Shoot for the Win.pdb
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 2 - Shoot for the Win\obj\Debug\net5.0\Problem 2 - Shoot for the Win.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 2 - Shoot for the Win\obj\Debug\net5.0\Problem 2 - Shoot for the Win.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 2 - Shoot for the Win\obj\Debug\net5.0\Problem 2 - Shoot for the Win.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 2 - Shoot for the Win\obj\Debug\net5.0\Problem 2 - Shoot for the Win.AssemblyInfo.cs
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 2 - Shoot for the Win\obj\Debug\net5.0\Problem 2 - Shoot for the Win.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 2 - Shoot for the Win\obj\Debug\net5.0\Problem 2 - Shoot for the Win.dll
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 2 - Shoot for the Win\obj\Debug\net5.0\ref\Problem 2 - Shoot for the Win.dll
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 2 - Shoot for the Win\obj\Debug\net5.0\Problem 2 - Shoot for the Win.pdb
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 2 - Shoot for the Win\obj\Debug\net5.0\Problem 2 - Shoot for the Win.genruntimeconfig.cache
