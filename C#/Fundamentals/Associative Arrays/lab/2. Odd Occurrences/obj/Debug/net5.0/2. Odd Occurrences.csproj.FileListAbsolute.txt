@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\08.Associative Arrays\lab\2. Odd Occurrences\bin\Debug\net5.0\2. Odd Occurrences.exe
+E:\C#\Fundamentals\08.Associative Arrays\lab\2. Odd Occurrences\bin\Debug\net5.0\2. Odd Occurrences.deps.json
+E:\C#\Fundamentals\08.Associative Arrays\lab\2. Odd Occurrences\bin\Debug\net5.0\2. Odd Occurrences.runtimeconfig.json
+E:\C#\Fundamentals\08.Associative Arrays\lab\2. Odd Occurrences\bin\Debug\net5.0\2. Odd Occurrences.runtimeconfig.dev.json
+E:\C#\Fundamentals\08.Associative Arrays\lab\2. Odd Occurrences\bin\Debug\net5.0\2. Odd Occurrences.dll
+E:\C#\Fundamentals\08.Associative Arrays\lab\2. Odd Occurrences\bin\Debug\net5.0\ref\2. Odd Occurrences.dll
+E:\C#\Fundamentals\08.Associative Arrays\lab\2. Odd Occurrences\bin\Debug\net5.0\2. Odd Occurrences.pdb
+E:\C#\Fundamentals\08.Associative Arrays\lab\2. Odd Occurrences\obj\Debug\net5.0\2. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\08.Associative Arrays\lab\2. Odd Occurrences\obj\Debug\net5.0\2. Odd Occurrences.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\08.Associative Arrays\lab\2. Odd Occurrences\obj\Debug\net5.0\2. Odd Occurrences.AssemblyInfo.cs
+E:\C#\Fundamentals\08.Associative Arrays\lab\2. Odd Occurrences\obj\Debug\net5.0\2. Odd Occurrences.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\08.Associative Arrays\lab\2. Odd Occurrences\obj\Debug\net5.0\2. Odd Occurrences.dll
+E:\C#\Fundamentals\08.Associative Arrays\lab\2. Odd Occurrences\obj\Debug\net5.0\ref\2. Odd Occurrences.dll
+E:\C#\Fundamentals\08.Associative Arrays\lab\2. Odd Occurrences\obj\Debug\net5.0\2. Odd Occurrences.pdb
+E:\C#\Fundamentals\08.Associative Arrays\lab\2. Odd Occurrences\obj\Debug\net5.0\2. Odd Occurrences.genruntimeconfig.cache
