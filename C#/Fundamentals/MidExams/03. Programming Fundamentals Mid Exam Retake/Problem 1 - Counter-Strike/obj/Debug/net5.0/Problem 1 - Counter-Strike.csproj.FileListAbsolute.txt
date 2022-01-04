@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 1 - Counter-Strike\bin\Debug\net5.0\Problem 1 - Counter-Strike.exe
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 1 - Counter-Strike\bin\Debug\net5.0\Problem 1 - Counter-Strike.deps.json
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 1 - Counter-Strike\bin\Debug\net5.0\Problem 1 - Counter-Strike.runtimeconfig.json
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 1 - Counter-Strike\bin\Debug\net5.0\Problem 1 - Counter-Strike.runtimeconfig.dev.json
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 1 - Counter-Strike\bin\Debug\net5.0\Problem 1 - Counter-Strike.dll
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 1 - Counter-Strike\bin\Debug\net5.0\ref\Problem 1 - Counter-Strike.dll
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 1 - Counter-Strike\bin\Debug\net5.0\Problem 1 - Counter-Strike.pdb
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 1 - Counter-Strike\obj\Debug\net5.0\Problem 1 - Counter-Strike.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 1 - Counter-Strike\obj\Debug\net5.0\Problem 1 - Counter-Strike.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 1 - Counter-Strike\obj\Debug\net5.0\Problem 1 - Counter-Strike.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 1 - Counter-Strike\obj\Debug\net5.0\Problem 1 - Counter-Strike.AssemblyInfo.cs
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 1 - Counter-Strike\obj\Debug\net5.0\Problem 1 - Counter-Strike.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 1 - Counter-Strike\obj\Debug\net5.0\Problem 1 - Counter-Strike.dll
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 1 - Counter-Strike\obj\Debug\net5.0\ref\Problem 1 - Counter-Strike.dll
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 1 - Counter-Strike\obj\Debug\net5.0\Problem 1 - Counter-Strike.pdb
+E:\C#\Fundamentals\13.MidExams\03. Programming Fundamentals Mid Exam Retake\solutions\Problem 1 - Counter-Strike\obj\Debug\net5.0\Problem 1 - Counter-Strike.genruntimeconfig.cache
