@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\08.Associative Arrays\exercise\8. Company Users\bin\Debug\net5.0\8. Company Users.exe
+E:\C#\Fundamentals\08.Associative Arrays\exercise\8. Company Users\bin\Debug\net5.0\8. Company Users.deps.json
+E:\C#\Fundamentals\08.Associative Arrays\exercise\8. Company Users\bin\Debug\net5.0\8. Company Users.runtimeconfig.json
+E:\C#\Fundamentals\08.Associative Arrays\exercise\8. Company Users\bin\Debug\net5.0\8. Company Users.runtimeconfig.dev.json
+E:\C#\Fundamentals\08.Associative Arrays\exercise\8. Company Users\bin\Debug\net5.0\8. Company Users.dll
+E:\C#\Fundamentals\08.Associative Arrays\exercise\8. Company Users\bin\Debug\net5.0\ref\8. Company Users.dll
+E:\C#\Fundamentals\08.Associative Arrays\exercise\8. Company Users\bin\Debug\net5.0\8. Company Users.pdb
+E:\C#\Fundamentals\08.Associative Arrays\exercise\8. Company Users\obj\Debug\net5.0\8. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\08.Associative Arrays\exercise\8. Company Users\obj\Debug\net5.0\8. Company Users.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\08.Associative Arrays\exercise\8. Company Users\obj\Debug\net5.0\8. Company Users.AssemblyInfo.cs
+E:\C#\Fundamentals\08.Associative Arrays\exercise\8. Company Users\obj\Debug\net5.0\8. Company Users.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\08.Associative Arrays\exercise\8. Company Users\obj\Debug\net5.0\8. Company Users.dll
+E:\C#\Fundamentals\08.Associative Arrays\exercise\8. Company Users\obj\Debug\net5.0\ref\8. Company Users.dll
+E:\C#\Fundamentals\08.Associative Arrays\exercise\8. Company Users\obj\Debug\net5.0\8. Company Users.pdb
+E:\C#\Fundamentals\08.Associative Arrays\exercise\8. Company Users\obj\Debug\net5.0\8. Company Users.genruntimeconfig.cache
