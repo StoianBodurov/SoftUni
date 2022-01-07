@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OtvnBMDMwQFaS062cKipXwr/uQhUCBEwTpsFP9lvOp6aH9dQbWFYvdpBKTpbjo6xo5ZfRcw5b/K8RnZOIMoRSA==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\Fundamentals\\08.Associative Arrays\\exercise\\4. Orders\\4. Orders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
