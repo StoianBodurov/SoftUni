@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\08.Associative Arrays\exercise\2. A Miner Task\bin\Debug\net5.0\2. A Miner Task.exe
+E:\C#\Fundamentals\08.Associative Arrays\exercise\2. A Miner Task\bin\Debug\net5.0\2. A Miner Task.deps.json
+E:\C#\Fundamentals\08.Associative Arrays\exercise\2. A Miner Task\bin\Debug\net5.0\2. A Miner Task.runtimeconfig.json
+E:\C#\Fundamentals\08.Associative Arrays\exercise\2. A Miner Task\bin\Debug\net5.0\2. A Miner Task.runtimeconfig.dev.json
+E:\C#\Fundamentals\08.Associative Arrays\exercise\2. A Miner Task\bin\Debug\net5.0\2. A Miner Task.dll
+E:\C#\Fundamentals\08.Associative Arrays\exercise\2. A Miner Task\bin\Debug\net5.0\ref\2. A Miner Task.dll
+E:\C#\Fundamentals\08.Associative Arrays\exercise\2. A Miner Task\bin\Debug\net5.0\2. A Miner Task.pdb
+E:\C#\Fundamentals\08.Associative Arrays\exercise\2. A Miner Task\obj\Debug\net5.0\2. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\08.Associative Arrays\exercise\2. A Miner Task\obj\Debug\net5.0\2. A Miner Task.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\08.Associative Arrays\exercise\2. A Miner Task\obj\Debug\net5.0\2. A Miner Task.AssemblyInfo.cs
+E:\C#\Fundamentals\08.Associative Arrays\exercise\2. A Miner Task\obj\Debug\net5.0\2. A Miner Task.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\08.Associative Arrays\exercise\2. A Miner Task\obj\Debug\net5.0\2. A Miner Task.dll
+E:\C#\Fundamentals\08.Associative Arrays\exercise\2. A Miner Task\obj\Debug\net5.0\ref\2. A Miner Task.dll
+E:\C#\Fundamentals\08.Associative Arrays\exercise\2. A Miner Task\obj\Debug\net5.0\2. A Miner Task.pdb
+E:\C#\Fundamentals\08.Associative Arrays\exercise\2. A Miner Task\obj\Debug\net5.0\2. A Miner Task.genruntimeconfig.cache
