@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\08.Associative Arrays\exercise\7.  Student Academy\bin\Debug\net5.0\7.  Student Academy.exe
+E:\C#\Fundamentals\08.Associative Arrays\exercise\7.  Student Academy\bin\Debug\net5.0\7.  Student Academy.deps.json
+E:\C#\Fundamentals\08.Associative Arrays\exercise\7.  Student Academy\bin\Debug\net5.0\7.  Student Academy.runtimeconfig.json
+E:\C#\Fundamentals\08.Associative Arrays\exercise\7.  Student Academy\bin\Debug\net5.0\7.  Student Academy.runtimeconfig.dev.json
+E:\C#\Fundamentals\08.Associative Arrays\exercise\7.  Student Academy\bin\Debug\net5.0\7.  Student Academy.dll
+E:\C#\Fundamentals\08.Associative Arrays\exercise\7.  Student Academy\bin\Debug\net5.0\ref\7.  Student Academy.dll
+E:\C#\Fundamentals\08.Associative Arrays\exercise\7.  Student Academy\bin\Debug\net5.0\7.  Student Academy.pdb
+E:\C#\Fundamentals\08.Associative Arrays\exercise\7.  Student Academy\obj\Debug\net5.0\7.  Student Academy.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\08.Associative Arrays\exercise\7.  Student Academy\obj\Debug\net5.0\7.  Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\08.Associative Arrays\exercise\7.  Student Academy\obj\Debug\net5.0\7.  Student Academy.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\08.Associative Arrays\exercise\7.  Student Academy\obj\Debug\net5.0\7.  Student Academy.AssemblyInfo.cs
+E:\C#\Fundamentals\08.Associative Arrays\exercise\7.  Student Academy\obj\Debug\net5.0\7.  Student Academy.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\08.Associative Arrays\exercise\7.  Student Academy\obj\Debug\net5.0\7.  Student Academy.dll
+E:\C#\Fundamentals\08.Associative Arrays\exercise\7.  Student Academy\obj\Debug\net5.0\ref\7.  Student Academy.dll
+E:\C#\Fundamentals\08.Associative Arrays\exercise\7.  Student Academy\obj\Debug\net5.0\7.  Student Academy.pdb
+E:\C#\Fundamentals\08.Associative Arrays\exercise\7.  Student Academy\obj\Debug\net5.0\7.  Student Academy.genruntimeconfig.cache
