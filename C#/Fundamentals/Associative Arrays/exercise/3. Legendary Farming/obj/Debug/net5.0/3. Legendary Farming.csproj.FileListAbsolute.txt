@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\08.Associative Arrays\exercise\3. Legendary Farming\bin\Debug\net5.0\3. Legendary Farming.exe
+E:\C#\Fundamentals\08.Associative Arrays\exercise\3. Legendary Farming\bin\Debug\net5.0\3. Legendary Farming.deps.json
+E:\C#\Fundamentals\08.Associative Arrays\exercise\3. Legendary Farming\bin\Debug\net5.0\3. Legendary Farming.runtimeconfig.json
+E:\C#\Fundamentals\08.Associative Arrays\exercise\3. Legendary Farming\bin\Debug\net5.0\3. Legendary Farming.runtimeconfig.dev.json
+E:\C#\Fundamentals\08.Associative Arrays\exercise\3. Legendary Farming\bin\Debug\net5.0\3. Legendary Farming.dll
+E:\C#\Fundamentals\08.Associative Arrays\exercise\3. Legendary Farming\bin\Debug\net5.0\ref\3. Legendary Farming.dll
+E:\C#\Fundamentals\08.Associative Arrays\exercise\3. Legendary Farming\bin\Debug\net5.0\3. Legendary Farming.pdb
+E:\C#\Fundamentals\08.Associative Arrays\exercise\3. Legendary Farming\obj\Debug\net5.0\3. Legendary Farming.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\08.Associative Arrays\exercise\3. Legendary Farming\obj\Debug\net5.0\3. Legendary Farming.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\08.Associative Arrays\exercise\3. Legendary Farming\obj\Debug\net5.0\3. Legendary Farming.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\08.Associative Arrays\exercise\3. Legendary Farming\obj\Debug\net5.0\3. Legendary Farming.AssemblyInfo.cs
+E:\C#\Fundamentals\08.Associative Arrays\exercise\3. Legendary Farming\obj\Debug\net5.0\3. Legendary Farming.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\08.Associative Arrays\exercise\3. Legendary Farming\obj\Debug\net5.0\3. Legendary Farming.dll
+E:\C#\Fundamentals\08.Associative Arrays\exercise\3. Legendary Farming\obj\Debug\net5.0\ref\3. Legendary Farming.dll
+E:\C#\Fundamentals\08.Associative Arrays\exercise\3. Legendary Farming\obj\Debug\net5.0\3. Legendary Farming.pdb
+E:\C#\Fundamentals\08.Associative Arrays\exercise\3. Legendary Farming\obj\Debug\net5.0\3. Legendary Farming.genruntimeconfig.cache
