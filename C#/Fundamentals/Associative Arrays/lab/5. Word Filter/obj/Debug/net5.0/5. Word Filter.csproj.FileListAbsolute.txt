@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\08.Associative Arrays\lab\5. Word Filter\bin\Debug\net5.0\5. Word Filter.exe
+E:\C#\Fundamentals\08.Associative Arrays\lab\5. Word Filter\bin\Debug\net5.0\5. Word Filter.deps.json
+E:\C#\Fundamentals\08.Associative Arrays\lab\5. Word Filter\bin\Debug\net5.0\5. Word Filter.runtimeconfig.json
+E:\C#\Fundamentals\08.Associative Arrays\lab\5. Word Filter\bin\Debug\net5.0\5. Word Filter.runtimeconfig.dev.json
+E:\C#\Fundamentals\08.Associative Arrays\lab\5. Word Filter\bin\Debug\net5.0\5. Word Filter.dll
+E:\C#\Fundamentals\08.Associative Arrays\lab\5. Word Filter\bin\Debug\net5.0\ref\5. Word Filter.dll
+E:\C#\Fundamentals\08.Associative Arrays\lab\5. Word Filter\bin\Debug\net5.0\5. Word Filter.pdb
+E:\C#\Fundamentals\08.Associative Arrays\lab\5. Word Filter\obj\Debug\net5.0\5. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\08.Associative Arrays\lab\5. Word Filter\obj\Debug\net5.0\5. Word Filter.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\08.Associative Arrays\lab\5. Word Filter\obj\Debug\net5.0\5. Word Filter.AssemblyInfo.cs
+E:\C#\Fundamentals\08.Associative Arrays\lab\5. Word Filter\obj\Debug\net5.0\5. Word Filter.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\08.Associative Arrays\lab\5. Word Filter\obj\Debug\net5.0\5. Word Filter.dll
+E:\C#\Fundamentals\08.Associative Arrays\lab\5. Word Filter\obj\Debug\net5.0\ref\5. Word Filter.dll
+E:\C#\Fundamentals\08.Associative Arrays\lab\5. Word Filter\obj\Debug\net5.0\5. Word Filter.pdb
+E:\C#\Fundamentals\08.Associative Arrays\lab\5. Word Filter\obj\Debug\net5.0\5. Word Filter.genruntimeconfig.cache
