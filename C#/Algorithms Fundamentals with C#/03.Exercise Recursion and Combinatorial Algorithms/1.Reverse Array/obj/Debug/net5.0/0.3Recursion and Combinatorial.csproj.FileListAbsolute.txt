@@ -1,0 +1,16 @@
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\0.3Recursion and Combinatorial\bin\Debug\net5.0\0.3Recursion and Combinatorial.exe
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\0.3Recursion and Combinatorial\bin\Debug\net5.0\0.3Recursion and Combinatorial.deps.json
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\0.3Recursion and Combinatorial\bin\Debug\net5.0\0.3Recursion and Combinatorial.runtimeconfig.json
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\0.3Recursion and Combinatorial\bin\Debug\net5.0\0.3Recursion and Combinatorial.runtimeconfig.dev.json
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\0.3Recursion and Combinatorial\bin\Debug\net5.0\0.3Recursion and Combinatorial.dll
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\0.3Recursion and Combinatorial\bin\Debug\net5.0\ref\0.3Recursion and Combinatorial.dll
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\0.3Recursion and Combinatorial\bin\Debug\net5.0\0.3Recursion and Combinatorial.pdb
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\0.3Recursion and Combinatorial\obj\Debug\net5.0\0.3Recursion and Combinatorial.csproj.AssemblyReference.cache
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\0.3Recursion and Combinatorial\obj\Debug\net5.0\0.3Recursion and Combinatorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\0.3Recursion and Combinatorial\obj\Debug\net5.0\0.3Recursion and Combinatorial.AssemblyInfoInputs.cache
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\0.3Recursion and Combinatorial\obj\Debug\net5.0\0.3Recursion and Combinatorial.AssemblyInfo.cs
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\0.3Recursion and Combinatorial\obj\Debug\net5.0\0.3Recursion and Combinatorial.csproj.CoreCompileInputs.cache
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\0.3Recursion and Combinatorial\obj\Debug\net5.0\0.3Recursion and Combinatorial.dll
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\0.3Recursion and Combinatorial\obj\Debug\net5.0\ref\0.3Recursion and Combinatorial.dll
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\0.3Recursion and Combinatorial\obj\Debug\net5.0\0.3Recursion and Combinatorial.pdb
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\0.3Recursion and Combinatorial\obj\Debug\net5.0\0.3Recursion and Combinatorial.genruntimeconfig.cache
