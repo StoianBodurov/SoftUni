@@ -1,0 +1,15 @@
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\2. Nested Loops To Recursion\bin\Debug\net5.0\2. Nested Loops To Recursion.exe
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\2. Nested Loops To Recursion\bin\Debug\net5.0\2. Nested Loops To Recursion.deps.json
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\2. Nested Loops To Recursion\bin\Debug\net5.0\2. Nested Loops To Recursion.runtimeconfig.json
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\2. Nested Loops To Recursion\bin\Debug\net5.0\2. Nested Loops To Recursion.runtimeconfig.dev.json
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\2. Nested Loops To Recursion\bin\Debug\net5.0\2. Nested Loops To Recursion.dll
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\2. Nested Loops To Recursion\bin\Debug\net5.0\ref\2. Nested Loops To Recursion.dll
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\2. Nested Loops To Recursion\bin\Debug\net5.0\2. Nested Loops To Recursion.pdb
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\2. Nested Loops To Recursion\obj\Debug\net5.0\2. Nested Loops To Recursion.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\2. Nested Loops To Recursion\obj\Debug\net5.0\2. Nested Loops To Recursion.AssemblyInfoInputs.cache
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\2. Nested Loops To Recursion\obj\Debug\net5.0\2. Nested Loops To Recursion.AssemblyInfo.cs
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\2. Nested Loops To Recursion\obj\Debug\net5.0\2. Nested Loops To Recursion.csproj.CoreCompileInputs.cache
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\2. Nested Loops To Recursion\obj\Debug\net5.0\2. Nested Loops To Recursion.dll
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\2. Nested Loops To Recursion\obj\Debug\net5.0\ref\2. Nested Loops To Recursion.dll
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\2. Nested Loops To Recursion\obj\Debug\net5.0\2. Nested Loops To Recursion.pdb
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\2. Nested Loops To Recursion\obj\Debug\net5.0\2. Nested Loops To Recursion.genruntimeconfig.cache
