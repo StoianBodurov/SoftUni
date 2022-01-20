@@ -1,0 +1,15 @@
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\5. Combinations without Repetition\bin\Debug\net5.0\5. Combinations without Repetition.exe
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\5. Combinations without Repetition\bin\Debug\net5.0\5. Combinations without Repetition.deps.json
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\5. Combinations without Repetition\bin\Debug\net5.0\5. Combinations without Repetition.runtimeconfig.json
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\5. Combinations without Repetition\bin\Debug\net5.0\5. Combinations without Repetition.runtimeconfig.dev.json
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\5. Combinations without Repetition\bin\Debug\net5.0\5. Combinations without Repetition.dll
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\5. Combinations without Repetition\bin\Debug\net5.0\ref\5. Combinations without Repetition.dll
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\5. Combinations without Repetition\bin\Debug\net5.0\5. Combinations without Repetition.pdb
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\5. Combinations without Repetition\obj\Debug\net5.0\5. Combinations without Repetition.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\5. Combinations without Repetition\obj\Debug\net5.0\5. Combinations without Repetition.AssemblyInfoInputs.cache
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\5. Combinations without Repetition\obj\Debug\net5.0\5. Combinations without Repetition.AssemblyInfo.cs
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\5. Combinations without Repetition\obj\Debug\net5.0\5. Combinations without Repetition.csproj.CoreCompileInputs.cache
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\5. Combinations without Repetition\obj\Debug\net5.0\5. Combinations without Repetition.dll
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\5. Combinations without Repetition\obj\Debug\net5.0\ref\5. Combinations without Repetition.dll
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\5. Combinations without Repetition\obj\Debug\net5.0\5. Combinations without Repetition.pdb
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\5. Combinations without Repetition\obj\Debug\net5.0\5. Combinations without Repetition.genruntimeconfig.cache
