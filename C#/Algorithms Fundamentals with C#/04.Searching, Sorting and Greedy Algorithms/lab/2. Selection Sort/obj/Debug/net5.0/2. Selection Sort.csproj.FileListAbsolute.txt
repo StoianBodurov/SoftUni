@@ -1,0 +1,16 @@
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\2. Selection Sort\bin\Debug\net5.0\2. Selection Sort.exe
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\2. Selection Sort\bin\Debug\net5.0\2. Selection Sort.deps.json
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\2. Selection Sort\bin\Debug\net5.0\2. Selection Sort.runtimeconfig.json
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\2. Selection Sort\bin\Debug\net5.0\2. Selection Sort.runtimeconfig.dev.json
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\2. Selection Sort\bin\Debug\net5.0\2. Selection Sort.dll
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\2. Selection Sort\bin\Debug\net5.0\ref\2. Selection Sort.dll
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\2. Selection Sort\bin\Debug\net5.0\2. Selection Sort.pdb
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\2. Selection Sort\obj\Debug\net5.0\2. Selection Sort.csproj.AssemblyReference.cache
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\2. Selection Sort\obj\Debug\net5.0\2. Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\2. Selection Sort\obj\Debug\net5.0\2. Selection Sort.AssemblyInfoInputs.cache
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\2. Selection Sort\obj\Debug\net5.0\2. Selection Sort.AssemblyInfo.cs
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\2. Selection Sort\obj\Debug\net5.0\2. Selection Sort.csproj.CoreCompileInputs.cache
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\2. Selection Sort\obj\Debug\net5.0\2. Selection Sort.dll
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\2. Selection Sort\obj\Debug\net5.0\ref\2. Selection Sort.dll
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\2. Selection Sort\obj\Debug\net5.0\2. Selection Sort.pdb
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\2. Selection Sort\obj\Debug\net5.0\2. Selection Sort.genruntimeconfig.cache
