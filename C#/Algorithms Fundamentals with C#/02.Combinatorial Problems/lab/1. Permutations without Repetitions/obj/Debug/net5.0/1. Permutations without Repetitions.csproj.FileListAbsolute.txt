@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\1. Permutations without Repetitions\bin\Debug\net5.0\1. Permutations without Repetitions.exe
+C:\Users\Lenovo\source\repos\1. Permutations without Repetitions\bin\Debug\net5.0\1. Permutations without Repetitions.deps.json
+C:\Users\Lenovo\source\repos\1. Permutations without Repetitions\bin\Debug\net5.0\1. Permutations without Repetitions.runtimeconfig.json
+C:\Users\Lenovo\source\repos\1. Permutations without Repetitions\bin\Debug\net5.0\1. Permutations without Repetitions.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\1. Permutations without Repetitions\bin\Debug\net5.0\1. Permutations without Repetitions.dll
+C:\Users\Lenovo\source\repos\1. Permutations without Repetitions\bin\Debug\net5.0\ref\1. Permutations without Repetitions.dll
+C:\Users\Lenovo\source\repos\1. Permutations without Repetitions\bin\Debug\net5.0\1. Permutations without Repetitions.pdb
+C:\Users\Lenovo\source\repos\1. Permutations without Repetitions\obj\Debug\net5.0\1. Permutations without Repetitions.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\1. Permutations without Repetitions\obj\Debug\net5.0\1. Permutations without Repetitions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\1. Permutations without Repetitions\obj\Debug\net5.0\1. Permutations without Repetitions.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\1. Permutations without Repetitions\obj\Debug\net5.0\1. Permutations without Repetitions.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\1. Permutations without Repetitions\obj\Debug\net5.0\1. Permutations without Repetitions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\1. Permutations without Repetitions\obj\Debug\net5.0\1. Permutations without Repetitions.dll
+C:\Users\Lenovo\source\repos\1. Permutations without Repetitions\obj\Debug\net5.0\ref\1. Permutations without Repetitions.dll
+C:\Users\Lenovo\source\repos\1. Permutations without Repetitions\obj\Debug\net5.0\1. Permutations without Repetitions.pdb
+C:\Users\Lenovo\source\repos\1. Permutations without Repetitions\obj\Debug\net5.0\1. Permutations without Repetitions.genruntimeconfig.cache
