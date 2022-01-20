@@ -1,0 +1,16 @@
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\1. Binary Search\bin\Debug\net5.0\1. Binary Search.exe
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\1. Binary Search\bin\Debug\net5.0\1. Binary Search.deps.json
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\1. Binary Search\bin\Debug\net5.0\1. Binary Search.runtimeconfig.json
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\1. Binary Search\bin\Debug\net5.0\1. Binary Search.runtimeconfig.dev.json
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\1. Binary Search\bin\Debug\net5.0\1. Binary Search.dll
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\1. Binary Search\bin\Debug\net5.0\ref\1. Binary Search.dll
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\1. Binary Search\bin\Debug\net5.0\1. Binary Search.pdb
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\1. Binary Search\obj\Debug\net5.0\1. Binary Search.csproj.AssemblyReference.cache
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\1. Binary Search\obj\Debug\net5.0\1. Binary Search.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\1. Binary Search\obj\Debug\net5.0\1. Binary Search.AssemblyInfoInputs.cache
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\1. Binary Search\obj\Debug\net5.0\1. Binary Search.AssemblyInfo.cs
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\1. Binary Search\obj\Debug\net5.0\1. Binary Search.csproj.CoreCompileInputs.cache
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\1. Binary Search\obj\Debug\net5.0\1. Binary Search.dll
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\1. Binary Search\obj\Debug\net5.0\ref\1. Binary Search.dll
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\1. Binary Search\obj\Debug\net5.0\1. Binary Search.pdb
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\1. Binary Search\obj\Debug\net5.0\1. Binary Search.genruntimeconfig.cache
