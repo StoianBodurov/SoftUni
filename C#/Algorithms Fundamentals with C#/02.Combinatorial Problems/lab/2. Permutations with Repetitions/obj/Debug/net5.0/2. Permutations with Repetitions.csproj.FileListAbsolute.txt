@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\2. Permutations with Repetitions\bin\Debug\net5.0\2. Permutations with Repetitions.exe
+C:\Users\Lenovo\source\repos\2. Permutations with Repetitions\bin\Debug\net5.0\2. Permutations with Repetitions.deps.json
+C:\Users\Lenovo\source\repos\2. Permutations with Repetitions\bin\Debug\net5.0\2. Permutations with Repetitions.runtimeconfig.json
+C:\Users\Lenovo\source\repos\2. Permutations with Repetitions\bin\Debug\net5.0\2. Permutations with Repetitions.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\2. Permutations with Repetitions\bin\Debug\net5.0\2. Permutations with Repetitions.dll
+C:\Users\Lenovo\source\repos\2. Permutations with Repetitions\bin\Debug\net5.0\ref\2. Permutations with Repetitions.dll
+C:\Users\Lenovo\source\repos\2. Permutations with Repetitions\bin\Debug\net5.0\2. Permutations with Repetitions.pdb
+C:\Users\Lenovo\source\repos\2. Permutations with Repetitions\obj\Debug\net5.0\2. Permutations with Repetitions.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\2. Permutations with Repetitions\obj\Debug\net5.0\2. Permutations with Repetitions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\2. Permutations with Repetitions\obj\Debug\net5.0\2. Permutations with Repetitions.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\2. Permutations with Repetitions\obj\Debug\net5.0\2. Permutations with Repetitions.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\2. Permutations with Repetitions\obj\Debug\net5.0\2. Permutations with Repetitions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\2. Permutations with Repetitions\obj\Debug\net5.0\2. Permutations with Repetitions.dll
+C:\Users\Lenovo\source\repos\2. Permutations with Repetitions\obj\Debug\net5.0\ref\2. Permutations with Repetitions.dll
+C:\Users\Lenovo\source\repos\2. Permutations with Repetitions\obj\Debug\net5.0\2. Permutations with Repetitions.pdb
+C:\Users\Lenovo\source\repos\2. Permutations with Repetitions\obj\Debug\net5.0\2. Permutations with Repetitions.genruntimeconfig.cache
