@@ -1,0 +1,15 @@
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\5. School Teams\bin\Debug\net5.0\5. School Teams.exe
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\5. School Teams\bin\Debug\net5.0\5. School Teams.deps.json
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\5. School Teams\bin\Debug\net5.0\5. School Teams.runtimeconfig.json
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\5. School Teams\bin\Debug\net5.0\5. School Teams.runtimeconfig.dev.json
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\5. School Teams\bin\Debug\net5.0\5. School Teams.dll
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\5. School Teams\bin\Debug\net5.0\ref\5. School Teams.dll
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\5. School Teams\bin\Debug\net5.0\5. School Teams.pdb
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\5. School Teams\obj\Debug\net5.0\5. School Teams.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\5. School Teams\obj\Debug\net5.0\5. School Teams.AssemblyInfoInputs.cache
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\5. School Teams\obj\Debug\net5.0\5. School Teams.AssemblyInfo.cs
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\5. School Teams\obj\Debug\net5.0\5. School Teams.csproj.CoreCompileInputs.cache
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\5. School Teams\obj\Debug\net5.0\5. School Teams.dll
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\5. School Teams\obj\Debug\net5.0\ref\5. School Teams.dll
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\5. School Teams\obj\Debug\net5.0\5. School Teams.pdb
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\5. School Teams\obj\Debug\net5.0\5. School Teams.genruntimeconfig.cache
