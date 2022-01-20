@@ -1,0 +1,15 @@
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\6. Combinations with Repetition\bin\Debug\net5.0\6. Combinations with Repetition.exe
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\6. Combinations with Repetition\bin\Debug\net5.0\6. Combinations with Repetition.deps.json
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\6. Combinations with Repetition\bin\Debug\net5.0\6. Combinations with Repetition.runtimeconfig.json
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\6. Combinations with Repetition\bin\Debug\net5.0\6. Combinations with Repetition.runtimeconfig.dev.json
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\6. Combinations with Repetition\bin\Debug\net5.0\6. Combinations with Repetition.dll
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\6. Combinations with Repetition\bin\Debug\net5.0\ref\6. Combinations with Repetition.dll
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\6. Combinations with Repetition\bin\Debug\net5.0\6. Combinations with Repetition.pdb
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\6. Combinations with Repetition\obj\Debug\net5.0\6. Combinations with Repetition.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\6. Combinations with Repetition\obj\Debug\net5.0\6. Combinations with Repetition.AssemblyInfoInputs.cache
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\6. Combinations with Repetition\obj\Debug\net5.0\6. Combinations with Repetition.AssemblyInfo.cs
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\6. Combinations with Repetition\obj\Debug\net5.0\6. Combinations with Repetition.csproj.CoreCompileInputs.cache
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\6. Combinations with Repetition\obj\Debug\net5.0\6. Combinations with Repetition.dll
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\6. Combinations with Repetition\obj\Debug\net5.0\ref\6. Combinations with Repetition.dll
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\6. Combinations with Repetition\obj\Debug\net5.0\6. Combinations with Repetition.pdb
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\6. Combinations with Repetition\obj\Debug\net5.0\6. Combinations with Repetition.genruntimeconfig.cache
