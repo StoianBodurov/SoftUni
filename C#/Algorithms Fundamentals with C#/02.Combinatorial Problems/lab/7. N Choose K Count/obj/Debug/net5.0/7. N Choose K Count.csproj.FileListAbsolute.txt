@@ -1,0 +1,15 @@
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\7. N Choose K Count\bin\Debug\net5.0\7. N Choose K Count.exe
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\7. N Choose K Count\bin\Debug\net5.0\7. N Choose K Count.deps.json
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\7. N Choose K Count\bin\Debug\net5.0\7. N Choose K Count.runtimeconfig.json
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\7. N Choose K Count\bin\Debug\net5.0\7. N Choose K Count.runtimeconfig.dev.json
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\7. N Choose K Count\bin\Debug\net5.0\7. N Choose K Count.dll
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\7. N Choose K Count\bin\Debug\net5.0\ref\7. N Choose K Count.dll
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\7. N Choose K Count\bin\Debug\net5.0\7. N Choose K Count.pdb
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\7. N Choose K Count\obj\Debug\net5.0\7. N Choose K Count.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\7. N Choose K Count\obj\Debug\net5.0\7. N Choose K Count.AssemblyInfoInputs.cache
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\7. N Choose K Count\obj\Debug\net5.0\7. N Choose K Count.AssemblyInfo.cs
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\7. N Choose K Count\obj\Debug\net5.0\7. N Choose K Count.csproj.CoreCompileInputs.cache
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\7. N Choose K Count\obj\Debug\net5.0\7. N Choose K Count.dll
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\7. N Choose K Count\obj\Debug\net5.0\ref\7. N Choose K Count.dll
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\7. N Choose K Count\obj\Debug\net5.0\7. N Choose K Count.pdb
+E:\C#\Algorithms Fundamentals with C#\02.Combinatorial Problems\lab\7. N Choose K Count\obj\Debug\net5.0\7. N Choose K Count.genruntimeconfig.cache
