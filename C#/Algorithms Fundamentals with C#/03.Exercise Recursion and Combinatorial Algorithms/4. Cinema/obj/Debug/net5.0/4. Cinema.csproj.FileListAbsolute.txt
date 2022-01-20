@@ -1,0 +1,16 @@
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\4. Cinema\bin\Debug\net5.0\4. Cinema.exe
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\4. Cinema\bin\Debug\net5.0\4. Cinema.deps.json
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\4. Cinema\bin\Debug\net5.0\4. Cinema.runtimeconfig.json
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\4. Cinema\bin\Debug\net5.0\4. Cinema.runtimeconfig.dev.json
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\4. Cinema\bin\Debug\net5.0\4. Cinema.dll
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\4. Cinema\bin\Debug\net5.0\ref\4. Cinema.dll
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\4. Cinema\bin\Debug\net5.0\4. Cinema.pdb
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\4. Cinema\obj\Debug\net5.0\4. Cinema.csproj.AssemblyReference.cache
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\4. Cinema\obj\Debug\net5.0\4. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\4. Cinema\obj\Debug\net5.0\4. Cinema.AssemblyInfoInputs.cache
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\4. Cinema\obj\Debug\net5.0\4. Cinema.AssemblyInfo.cs
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\4. Cinema\obj\Debug\net5.0\4. Cinema.csproj.CoreCompileInputs.cache
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\4. Cinema\obj\Debug\net5.0\4. Cinema.dll
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\4. Cinema\obj\Debug\net5.0\ref\4. Cinema.dll
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\4. Cinema\obj\Debug\net5.0\4. Cinema.pdb
+E:\C#\Algorithms Fundamentals with C#\03.Exercise Recursion and Combinatorial Algorithms\exercise\4. Cinema\obj\Debug\net5.0\4. Cinema.genruntimeconfig.cache
