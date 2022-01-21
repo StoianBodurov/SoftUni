@@ -1,0 +1,16 @@
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\5. Quicksort\bin\Debug\net5.0\5. Quicksort.exe
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\5. Quicksort\bin\Debug\net5.0\5. Quicksort.deps.json
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\5. Quicksort\bin\Debug\net5.0\5. Quicksort.runtimeconfig.json
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\5. Quicksort\bin\Debug\net5.0\5. Quicksort.runtimeconfig.dev.json
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\5. Quicksort\bin\Debug\net5.0\5. Quicksort.dll
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\5. Quicksort\bin\Debug\net5.0\ref\5. Quicksort.dll
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\5. Quicksort\bin\Debug\net5.0\5. Quicksort.pdb
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\5. Quicksort\obj\Debug\net5.0\5. Quicksort.csproj.AssemblyReference.cache
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\5. Quicksort\obj\Debug\net5.0\5. Quicksort.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\5. Quicksort\obj\Debug\net5.0\5. Quicksort.AssemblyInfoInputs.cache
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\5. Quicksort\obj\Debug\net5.0\5. Quicksort.AssemblyInfo.cs
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\5. Quicksort\obj\Debug\net5.0\5. Quicksort.csproj.CoreCompileInputs.cache
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\5. Quicksort\obj\Debug\net5.0\5. Quicksort.dll
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\5. Quicksort\obj\Debug\net5.0\ref\5. Quicksort.dll
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\5. Quicksort\obj\Debug\net5.0\5. Quicksort.pdb
+E:\C#\Algorithms Fundamentals with C#\04.Searching, Sorting and Greedy Algorithms\lab\5. Quicksort\obj\Debug\net5.0\5. Quicksort.genruntimeconfig.cache
