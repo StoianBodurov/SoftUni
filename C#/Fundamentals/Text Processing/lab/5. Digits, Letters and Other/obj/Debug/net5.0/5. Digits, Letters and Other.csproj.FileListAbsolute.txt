@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\09.Text Processing\lab\5. Digits, Letters and Other\bin\Debug\net5.0\5. Digits, Letters and Other.exe
+E:\C#\Fundamentals\09.Text Processing\lab\5. Digits, Letters and Other\bin\Debug\net5.0\5. Digits, Letters and Other.deps.json
+E:\C#\Fundamentals\09.Text Processing\lab\5. Digits, Letters and Other\bin\Debug\net5.0\5. Digits, Letters and Other.runtimeconfig.json
+E:\C#\Fundamentals\09.Text Processing\lab\5. Digits, Letters and Other\bin\Debug\net5.0\5. Digits, Letters and Other.runtimeconfig.dev.json
+E:\C#\Fundamentals\09.Text Processing\lab\5. Digits, Letters and Other\bin\Debug\net5.0\5. Digits, Letters and Other.dll
+E:\C#\Fundamentals\09.Text Processing\lab\5. Digits, Letters and Other\bin\Debug\net5.0\ref\5. Digits, Letters and Other.dll
+E:\C#\Fundamentals\09.Text Processing\lab\5. Digits, Letters and Other\bin\Debug\net5.0\5. Digits, Letters and Other.pdb
+E:\C#\Fundamentals\09.Text Processing\lab\5. Digits, Letters and Other\obj\Debug\net5.0\5. Digits, Letters and Other.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\09.Text Processing\lab\5. Digits, Letters and Other\obj\Debug\net5.0\5. Digits, Letters and Other.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\09.Text Processing\lab\5. Digits, Letters and Other\obj\Debug\net5.0\5. Digits, Letters and Other.AssemblyInfo.cs
+E:\C#\Fundamentals\09.Text Processing\lab\5. Digits, Letters and Other\obj\Debug\net5.0\5. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\09.Text Processing\lab\5. Digits, Letters and Other\obj\Debug\net5.0\5. Digits, Letters and Other.dll
+E:\C#\Fundamentals\09.Text Processing\lab\5. Digits, Letters and Other\obj\Debug\net5.0\ref\5. Digits, Letters and Other.dll
+E:\C#\Fundamentals\09.Text Processing\lab\5. Digits, Letters and Other\obj\Debug\net5.0\5. Digits, Letters and Other.pdb
+E:\C#\Fundamentals\09.Text Processing\lab\5. Digits, Letters and Other\obj\Debug\net5.0\5. Digits, Letters and Other.genruntimeconfig.cache
