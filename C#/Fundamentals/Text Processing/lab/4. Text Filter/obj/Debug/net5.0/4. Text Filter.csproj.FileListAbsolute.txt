@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\09.Text Processing\lab\4. Text Filter\bin\Debug\net5.0\4. Text Filter.exe
+E:\C#\Fundamentals\09.Text Processing\lab\4. Text Filter\bin\Debug\net5.0\4. Text Filter.deps.json
+E:\C#\Fundamentals\09.Text Processing\lab\4. Text Filter\bin\Debug\net5.0\4. Text Filter.runtimeconfig.json
+E:\C#\Fundamentals\09.Text Processing\lab\4. Text Filter\bin\Debug\net5.0\4. Text Filter.runtimeconfig.dev.json
+E:\C#\Fundamentals\09.Text Processing\lab\4. Text Filter\bin\Debug\net5.0\4. Text Filter.dll
+E:\C#\Fundamentals\09.Text Processing\lab\4. Text Filter\bin\Debug\net5.0\ref\4. Text Filter.dll
+E:\C#\Fundamentals\09.Text Processing\lab\4. Text Filter\bin\Debug\net5.0\4. Text Filter.pdb
+E:\C#\Fundamentals\09.Text Processing\lab\4. Text Filter\obj\Debug\net5.0\4. Text Filter.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\09.Text Processing\lab\4. Text Filter\obj\Debug\net5.0\4. Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\09.Text Processing\lab\4. Text Filter\obj\Debug\net5.0\4. Text Filter.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\09.Text Processing\lab\4. Text Filter\obj\Debug\net5.0\4. Text Filter.AssemblyInfo.cs
+E:\C#\Fundamentals\09.Text Processing\lab\4. Text Filter\obj\Debug\net5.0\4. Text Filter.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\09.Text Processing\lab\4. Text Filter\obj\Debug\net5.0\4. Text Filter.dll
+E:\C#\Fundamentals\09.Text Processing\lab\4. Text Filter\obj\Debug\net5.0\ref\4. Text Filter.dll
+E:\C#\Fundamentals\09.Text Processing\lab\4. Text Filter\obj\Debug\net5.0\4. Text Filter.pdb
+E:\C#\Fundamentals\09.Text Processing\lab\4. Text Filter\obj\Debug\net5.0\4. Text Filter.genruntimeconfig.cache
