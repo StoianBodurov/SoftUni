@@ -1,0 +1,16 @@
+E:\C#\Fundamentals\09.Text Processing\lab\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.exe
+E:\C#\Fundamentals\09.Text Processing\lab\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.deps.json
+E:\C#\Fundamentals\09.Text Processing\lab\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.runtimeconfig.json
+E:\C#\Fundamentals\09.Text Processing\lab\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.runtimeconfig.dev.json
+E:\C#\Fundamentals\09.Text Processing\lab\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.dll
+E:\C#\Fundamentals\09.Text Processing\lab\1. Reverse Strings\bin\Debug\net5.0\ref\1. Reverse Strings.dll
+E:\C#\Fundamentals\09.Text Processing\lab\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.pdb
+E:\C#\Fundamentals\09.Text Processing\lab\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.csproj.AssemblyReference.cache
+E:\C#\Fundamentals\09.Text Processing\lab\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\09.Text Processing\lab\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\09.Text Processing\lab\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.AssemblyInfo.cs
+E:\C#\Fundamentals\09.Text Processing\lab\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\09.Text Processing\lab\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.dll
+E:\C#\Fundamentals\09.Text Processing\lab\1. Reverse Strings\obj\Debug\net5.0\ref\1. Reverse Strings.dll
+E:\C#\Fundamentals\09.Text Processing\lab\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.pdb
+E:\C#\Fundamentals\09.Text Processing\lab\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.genruntimeconfig.cache
