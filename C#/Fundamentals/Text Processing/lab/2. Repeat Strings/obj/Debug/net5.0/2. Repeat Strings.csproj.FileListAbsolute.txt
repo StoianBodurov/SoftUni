@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\09.Text Processing\lab\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.exe
+E:\C#\Fundamentals\09.Text Processing\lab\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.deps.json
+E:\C#\Fundamentals\09.Text Processing\lab\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.runtimeconfig.json
+E:\C#\Fundamentals\09.Text Processing\lab\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.runtimeconfig.dev.json
+E:\C#\Fundamentals\09.Text Processing\lab\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.dll
+E:\C#\Fundamentals\09.Text Processing\lab\2. Repeat Strings\bin\Debug\net5.0\ref\2. Repeat Strings.dll
+E:\C#\Fundamentals\09.Text Processing\lab\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.pdb
+E:\C#\Fundamentals\09.Text Processing\lab\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\09.Text Processing\lab\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\09.Text Processing\lab\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.AssemblyInfo.cs
+E:\C#\Fundamentals\09.Text Processing\lab\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\09.Text Processing\lab\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.dll
+E:\C#\Fundamentals\09.Text Processing\lab\2. Repeat Strings\obj\Debug\net5.0\ref\2. Repeat Strings.dll
+E:\C#\Fundamentals\09.Text Processing\lab\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.pdb
+E:\C#\Fundamentals\09.Text Processing\lab\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.genruntimeconfig.cache
