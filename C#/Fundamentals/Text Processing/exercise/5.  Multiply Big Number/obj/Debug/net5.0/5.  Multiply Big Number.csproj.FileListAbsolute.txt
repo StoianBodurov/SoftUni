@@ -1,0 +1,15 @@
+E:\C#\Fundamentals\09.Text Processing\exercise\5.  Multiply Big Number\bin\Debug\net5.0\5.  Multiply Big Number.exe
+E:\C#\Fundamentals\09.Text Processing\exercise\5.  Multiply Big Number\bin\Debug\net5.0\5.  Multiply Big Number.deps.json
+E:\C#\Fundamentals\09.Text Processing\exercise\5.  Multiply Big Number\bin\Debug\net5.0\5.  Multiply Big Number.runtimeconfig.json
+E:\C#\Fundamentals\09.Text Processing\exercise\5.  Multiply Big Number\bin\Debug\net5.0\5.  Multiply Big Number.runtimeconfig.dev.json
+E:\C#\Fundamentals\09.Text Processing\exercise\5.  Multiply Big Number\bin\Debug\net5.0\5.  Multiply Big Number.dll
+E:\C#\Fundamentals\09.Text Processing\exercise\5.  Multiply Big Number\bin\Debug\net5.0\ref\5.  Multiply Big Number.dll
+E:\C#\Fundamentals\09.Text Processing\exercise\5.  Multiply Big Number\bin\Debug\net5.0\5.  Multiply Big Number.pdb
+E:\C#\Fundamentals\09.Text Processing\exercise\5.  Multiply Big Number\obj\Debug\net5.0\5.  Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fundamentals\09.Text Processing\exercise\5.  Multiply Big Number\obj\Debug\net5.0\5.  Multiply Big Number.AssemblyInfoInputs.cache
+E:\C#\Fundamentals\09.Text Processing\exercise\5.  Multiply Big Number\obj\Debug\net5.0\5.  Multiply Big Number.AssemblyInfo.cs
+E:\C#\Fundamentals\09.Text Processing\exercise\5.  Multiply Big Number\obj\Debug\net5.0\5.  Multiply Big Number.csproj.CoreCompileInputs.cache
+E:\C#\Fundamentals\09.Text Processing\exercise\5.  Multiply Big Number\obj\Debug\net5.0\5.  Multiply Big Number.dll
+E:\C#\Fundamentals\09.Text Processing\exercise\5.  Multiply Big Number\obj\Debug\net5.0\ref\5.  Multiply Big Number.dll
+E:\C#\Fundamentals\09.Text Processing\exercise\5.  Multiply Big Number\obj\Debug\net5.0\5.  Multiply Big Number.pdb
+E:\C#\Fundamentals\09.Text Processing\exercise\5.  Multiply Big Number\obj\Debug\net5.0\5.  Multiply Big Number.genruntimeconfig.cache
