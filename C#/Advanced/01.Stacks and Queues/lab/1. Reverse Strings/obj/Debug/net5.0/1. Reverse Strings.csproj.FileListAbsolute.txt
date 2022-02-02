@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.exe
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.deps.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.runtimeconfig.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\1. Reverse Strings\bin\Debug\net5.0\ref\1. Reverse Strings.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.csproj.AssemblyReference.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.AssemblyInfo.cs
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\1. Reverse Strings\obj\Debug\net5.0\ref\1. Reverse Strings.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.genruntimeconfig.cache
