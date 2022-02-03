@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\1. Basic Stack Operations\bin\Debug\net5.0\1. Basic Stack Operations.exe
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\1. Basic Stack Operations\bin\Debug\net5.0\1. Basic Stack Operations.deps.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\1. Basic Stack Operations\bin\Debug\net5.0\1. Basic Stack Operations.runtimeconfig.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\1. Basic Stack Operations\bin\Debug\net5.0\1. Basic Stack Operations.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\1. Basic Stack Operations\bin\Debug\net5.0\1. Basic Stack Operations.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\1. Basic Stack Operations\bin\Debug\net5.0\ref\1. Basic Stack Operations.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\1. Basic Stack Operations\bin\Debug\net5.0\1. Basic Stack Operations.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\1. Basic Stack Operations\obj\Debug\net5.0\1. Basic Stack Operations.csproj.AssemblyReference.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\1. Basic Stack Operations\obj\Debug\net5.0\1. Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\1. Basic Stack Operations\obj\Debug\net5.0\1. Basic Stack Operations.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\1. Basic Stack Operations\obj\Debug\net5.0\1. Basic Stack Operations.AssemblyInfo.cs
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\1. Basic Stack Operations\obj\Debug\net5.0\1. Basic Stack Operations.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\1. Basic Stack Operations\obj\Debug\net5.0\1. Basic Stack Operations.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\1. Basic Stack Operations\obj\Debug\net5.0\ref\1. Basic Stack Operations.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\1. Basic Stack Operations\obj\Debug\net5.0\1. Basic Stack Operations.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\1. Basic Stack Operations\obj\Debug\net5.0\1. Basic Stack Operations.genruntimeconfig.cache
