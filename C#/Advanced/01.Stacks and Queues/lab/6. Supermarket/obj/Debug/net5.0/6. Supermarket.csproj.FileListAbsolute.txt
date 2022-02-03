@@ -1,0 +1,15 @@
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.exe
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.deps.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.runtimeconfig.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\6. Supermarket\bin\Debug\net5.0\ref\6. Supermarket.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.AssemblyInfo.cs
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\6. Supermarket\obj\Debug\net5.0\ref\6. Supermarket.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.genruntimeconfig.cache
