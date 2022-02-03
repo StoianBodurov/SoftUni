@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\8. Balanced Parentheses\bin\Debug\net5.0\8. Balanced Parentheses.exe
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\8. Balanced Parentheses\bin\Debug\net5.0\8. Balanced Parentheses.deps.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\8. Balanced Parentheses\bin\Debug\net5.0\8. Balanced Parentheses.runtimeconfig.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\8. Balanced Parentheses\bin\Debug\net5.0\8. Balanced Parentheses.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\8. Balanced Parentheses\bin\Debug\net5.0\8. Balanced Parentheses.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\8. Balanced Parentheses\bin\Debug\net5.0\ref\8. Balanced Parentheses.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\8. Balanced Parentheses\bin\Debug\net5.0\8. Balanced Parentheses.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\8. Balanced Parentheses\obj\Debug\net5.0\8. Balanced Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\8. Balanced Parentheses\obj\Debug\net5.0\8. Balanced Parentheses.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\8. Balanced Parentheses\obj\Debug\net5.0\8. Balanced Parentheses.AssemblyInfo.cs
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\8. Balanced Parentheses\obj\Debug\net5.0\8. Balanced Parentheses.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\8. Balanced Parentheses\obj\Debug\net5.0\8. Balanced Parentheses.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\8. Balanced Parentheses\obj\Debug\net5.0\ref\8. Balanced Parentheses.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\8. Balanced Parentheses\obj\Debug\net5.0\8. Balanced Parentheses.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\8. Balanced Parentheses\obj\Debug\net5.0\8. Balanced Parentheses.genruntimeconfig.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\8. Balanced Parentheses\obj\Debug\net5.0\8. Balanced Parentheses.csproj.AssemblyReference.cache
