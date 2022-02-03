@@ -1,0 +1,15 @@
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\6. Songs Queue\bin\Debug\net5.0\6. Songs Queue.exe
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\6. Songs Queue\bin\Debug\net5.0\6. Songs Queue.deps.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\6. Songs Queue\bin\Debug\net5.0\6. Songs Queue.runtimeconfig.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\6. Songs Queue\bin\Debug\net5.0\6. Songs Queue.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\6. Songs Queue\bin\Debug\net5.0\6. Songs Queue.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\6. Songs Queue\bin\Debug\net5.0\ref\6. Songs Queue.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\6. Songs Queue\bin\Debug\net5.0\6. Songs Queue.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\6. Songs Queue\obj\Debug\net5.0\6. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\6. Songs Queue\obj\Debug\net5.0\6. Songs Queue.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\6. Songs Queue\obj\Debug\net5.0\6. Songs Queue.AssemblyInfo.cs
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\6. Songs Queue\obj\Debug\net5.0\6. Songs Queue.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\6. Songs Queue\obj\Debug\net5.0\6. Songs Queue.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\6. Songs Queue\obj\Debug\net5.0\ref\6. Songs Queue.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\6. Songs Queue\obj\Debug\net5.0\6. Songs Queue.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\6. Songs Queue\obj\Debug\net5.0\6. Songs Queue.genruntimeconfig.cache
