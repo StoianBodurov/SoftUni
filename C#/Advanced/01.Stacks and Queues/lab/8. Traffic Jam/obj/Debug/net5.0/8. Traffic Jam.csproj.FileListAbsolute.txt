@@ -1,0 +1,15 @@
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.exe
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.deps.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.runtimeconfig.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\8. Traffic Jam\bin\Debug\net5.0\ref\8. Traffic Jam.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.AssemblyInfo.cs
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\8. Traffic Jam\obj\Debug\net5.0\ref\8. Traffic Jam.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.genruntimeconfig.cache
