@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\5. Fashion Boutique\bin\Debug\net5.0\5. Fashion Boutique.exe
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\5. Fashion Boutique\bin\Debug\net5.0\5. Fashion Boutique.deps.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\5. Fashion Boutique\bin\Debug\net5.0\5. Fashion Boutique.runtimeconfig.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\5. Fashion Boutique\bin\Debug\net5.0\5. Fashion Boutique.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\5. Fashion Boutique\bin\Debug\net5.0\5. Fashion Boutique.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\5. Fashion Boutique\bin\Debug\net5.0\ref\5. Fashion Boutique.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\5. Fashion Boutique\bin\Debug\net5.0\5. Fashion Boutique.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\5. Fashion Boutique\obj\Debug\net5.0\5. Fashion Boutique.csproj.AssemblyReference.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\5. Fashion Boutique\obj\Debug\net5.0\5. Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\5. Fashion Boutique\obj\Debug\net5.0\5. Fashion Boutique.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\5. Fashion Boutique\obj\Debug\net5.0\5. Fashion Boutique.AssemblyInfo.cs
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\5. Fashion Boutique\obj\Debug\net5.0\5. Fashion Boutique.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\5. Fashion Boutique\obj\Debug\net5.0\5. Fashion Boutique.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\5. Fashion Boutique\obj\Debug\net5.0\ref\5. Fashion Boutique.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\5. Fashion Boutique\obj\Debug\net5.0\5. Fashion Boutique.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\5. Fashion Boutique\obj\Debug\net5.0\5. Fashion Boutique.genruntimeconfig.cache
