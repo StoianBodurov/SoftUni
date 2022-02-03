@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\2. Basic Queue Operations\bin\Debug\net5.0\2. Basic Queue Operations.exe
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\2. Basic Queue Operations\bin\Debug\net5.0\2. Basic Queue Operations.deps.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\2. Basic Queue Operations\bin\Debug\net5.0\2. Basic Queue Operations.runtimeconfig.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\2. Basic Queue Operations\bin\Debug\net5.0\2. Basic Queue Operations.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\2. Basic Queue Operations\bin\Debug\net5.0\2. Basic Queue Operations.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\2. Basic Queue Operations\bin\Debug\net5.0\ref\2. Basic Queue Operations.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\2. Basic Queue Operations\bin\Debug\net5.0\2. Basic Queue Operations.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\2. Basic Queue Operations\obj\Debug\net5.0\2. Basic Queue Operations.csproj.AssemblyReference.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\2. Basic Queue Operations\obj\Debug\net5.0\2. Basic Queue Operations.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\2. Basic Queue Operations\obj\Debug\net5.0\2. Basic Queue Operations.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\2. Basic Queue Operations\obj\Debug\net5.0\2. Basic Queue Operations.AssemblyInfo.cs
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\2. Basic Queue Operations\obj\Debug\net5.0\2. Basic Queue Operations.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\2. Basic Queue Operations\obj\Debug\net5.0\2. Basic Queue Operations.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\2. Basic Queue Operations\obj\Debug\net5.0\ref\2. Basic Queue Operations.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\2. Basic Queue Operations\obj\Debug\net5.0\2. Basic Queue Operations.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\2. Basic Queue Operations\obj\Debug\net5.0\2. Basic Queue Operations.genruntimeconfig.cache
