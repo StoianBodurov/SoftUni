@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\2. Matching Brackets\bin\Debug\net5.0\2. Matching Brackets.exe
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\2. Matching Brackets\bin\Debug\net5.0\2. Matching Brackets.deps.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\2. Matching Brackets\bin\Debug\net5.0\2. Matching Brackets.runtimeconfig.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\2. Matching Brackets\bin\Debug\net5.0\2. Matching Brackets.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\2. Matching Brackets\bin\Debug\net5.0\2. Matching Brackets.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\2. Matching Brackets\bin\Debug\net5.0\ref\2. Matching Brackets.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\2. Matching Brackets\bin\Debug\net5.0\2. Matching Brackets.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\2. Matching Brackets\obj\Debug\net5.0\2. Matching Brackets.csproj.AssemblyReference.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\2. Matching Brackets\obj\Debug\net5.0\2. Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\2. Matching Brackets\obj\Debug\net5.0\2. Matching Brackets.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\2. Matching Brackets\obj\Debug\net5.0\2. Matching Brackets.AssemblyInfo.cs
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\2. Matching Brackets\obj\Debug\net5.0\2. Matching Brackets.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\2. Matching Brackets\obj\Debug\net5.0\2. Matching Brackets.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\2. Matching Brackets\obj\Debug\net5.0\ref\2. Matching Brackets.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\2. Matching Brackets\obj\Debug\net5.0\2. Matching Brackets.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\lab\2. Matching Brackets\obj\Debug\net5.0\2. Matching Brackets.genruntimeconfig.cache
