@@ -1,0 +1,15 @@
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.exe
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.deps.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.runtimeconfig.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\9. Simple Text Editor\bin\Debug\net5.0\ref\9. Simple Text Editor.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\9. Simple Text Editor\bin\Debug\net5.0\9. Simple Text Editor.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.AssemblyInfo.cs
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\9. Simple Text Editor\obj\Debug\net5.0\ref\9. Simple Text Editor.dll
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.pdb
+E:\C#\Advanced\advanced\01.Stacks and Queues\exercises\9. Simple Text Editor\obj\Debug\net5.0\9. Simple Text Editor.genruntimeconfig.cache
