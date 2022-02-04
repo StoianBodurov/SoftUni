@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.exe
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.deps.json
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.runtimeconfig.json
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\4. Symbol in Matrix\bin\Debug\net5.0\ref\4. Symbol in Matrix.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.pdb
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.csproj.AssemblyReference.cache
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.AssemblyInfo.cs
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\4. Symbol in Matrix\obj\Debug\net5.0\ref\4. Symbol in Matrix.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.pdb
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.genruntimeconfig.cache
