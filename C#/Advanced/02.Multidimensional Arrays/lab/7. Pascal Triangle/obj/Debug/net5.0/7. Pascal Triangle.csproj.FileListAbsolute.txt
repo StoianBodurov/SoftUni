@@ -1,0 +1,15 @@
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.exe
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.deps.json
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.runtimeconfig.json
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\7. Pascal Triangle\bin\Debug\net5.0\ref\7. Pascal Triangle.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.pdb
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.AssemblyInfo.cs
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\7. Pascal Triangle\obj\Debug\net5.0\ref\7. Pascal Triangle.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.pdb
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.genruntimeconfig.cache
