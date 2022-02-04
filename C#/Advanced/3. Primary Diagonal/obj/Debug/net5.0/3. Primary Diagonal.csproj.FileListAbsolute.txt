@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.exe
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.deps.json
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.runtimeconfig.json
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\3. Primary Diagonal\bin\Debug\net5.0\ref\3. Primary Diagonal.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.pdb
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.csproj.AssemblyReference.cache
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.AssemblyInfo.cs
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\3. Primary Diagonal\obj\Debug\net5.0\ref\3. Primary Diagonal.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.pdb
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.genruntimeconfig.cache
