@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\2.  2X2 Squares in Matrix\bin\Debug\net5.0\2.  2X2 Squares in Matrix.exe
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\2.  2X2 Squares in Matrix\bin\Debug\net5.0\2.  2X2 Squares in Matrix.deps.json
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\2.  2X2 Squares in Matrix\bin\Debug\net5.0\2.  2X2 Squares in Matrix.runtimeconfig.json
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\2.  2X2 Squares in Matrix\bin\Debug\net5.0\2.  2X2 Squares in Matrix.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\2.  2X2 Squares in Matrix\bin\Debug\net5.0\2.  2X2 Squares in Matrix.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\2.  2X2 Squares in Matrix\bin\Debug\net5.0\ref\2.  2X2 Squares in Matrix.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\2.  2X2 Squares in Matrix\bin\Debug\net5.0\2.  2X2 Squares in Matrix.pdb
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\2.  2X2 Squares in Matrix\obj\Debug\net5.0\2.  2X2 Squares in Matrix.csproj.AssemblyReference.cache
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\2.  2X2 Squares in Matrix\obj\Debug\net5.0\2.  2X2 Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\2.  2X2 Squares in Matrix\obj\Debug\net5.0\2.  2X2 Squares in Matrix.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\2.  2X2 Squares in Matrix\obj\Debug\net5.0\2.  2X2 Squares in Matrix.AssemblyInfo.cs
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\2.  2X2 Squares in Matrix\obj\Debug\net5.0\2.  2X2 Squares in Matrix.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\2.  2X2 Squares in Matrix\obj\Debug\net5.0\2.  2X2 Squares in Matrix.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\2.  2X2 Squares in Matrix\obj\Debug\net5.0\ref\2.  2X2 Squares in Matrix.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\2.  2X2 Squares in Matrix\obj\Debug\net5.0\2.  2X2 Squares in Matrix.pdb
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\2.  2X2 Squares in Matrix\obj\Debug\net5.0\2.  2X2 Squares in Matrix.genruntimeconfig.cache
