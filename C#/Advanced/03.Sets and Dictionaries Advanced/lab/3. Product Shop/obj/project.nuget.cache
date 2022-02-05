@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1qUAqQJ+MeA2DfdwgEUh3HPzy2Ob72EVv6KypebWCESBPFTMSgjt4u+2RYopEFf8Wr0IqVA3AQTm32srjchzZQ==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\Advanced\\advanced\\03.Sets and Dictionaries Advanced\\lab\\3. Product Shop\\3. Product Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
