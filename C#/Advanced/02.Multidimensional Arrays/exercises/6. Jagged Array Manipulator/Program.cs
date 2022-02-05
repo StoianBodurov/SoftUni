@@ -8,7 +8,7 @@ namespace _6._Jagged_Array_Manipulator
         static void Main(string[] args)
         {
             int row = int.Parse(Console.ReadLine());
-            int[][] matrix = new int[row][];
+            float[][] matrix = new float[row][];
 
             ReadMatrix(row, matrix);
             MuttateMatrix(matrix);
@@ -42,7 +42,7 @@ namespace _6._Jagged_Array_Manipulator
             PrintMatrix(matrix);
         }
 
-        private static void MuttateMatrix(int[][] matrix)
+        private static void MuttateMatrix(float[][] matrix)
         {
             for (int r = 0; r < matrix.Length -1; r++)
             {
@@ -69,22 +69,22 @@ namespace _6._Jagged_Array_Manipulator
             }
         }
 
-        private static bool IsValidCordinates(int r, int c, int[][] matrix)
+        private static bool IsValidCordinates(int r, int c, float[][] matrix)
         {
             return r >= 0 && r < matrix.Length && c >= 0 && c < matrix[r].Length;
         }
 
-        private static void ReadMatrix(int row, int[][] matrix)
+        private static void ReadMatrix(int row, float[][] matrix)
         {
             for (int r = 0; r < matrix.Length; r++)
             {
-                int[] currentRow = Console.ReadLine().Split().Select(int.Parse).ToArray();
+                float[] currentRow = Console.ReadLine().Split().Select(float.Parse).ToArray();
 
                 matrix[r] = currentRow;
             }
         }
 
-        private static void PrintMatrix(int[][] matrix)
+        private static void PrintMatrix(float[][] matrix)
         {
             foreach(var row in matrix)
             {
