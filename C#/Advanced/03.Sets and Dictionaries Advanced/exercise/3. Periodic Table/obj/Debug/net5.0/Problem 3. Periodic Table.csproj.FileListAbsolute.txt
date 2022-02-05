@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\Problem 3. Periodic Table\bin\Debug\net5.0\Problem 3. Periodic Table.exe
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\Problem 3. Periodic Table\bin\Debug\net5.0\Problem 3. Periodic Table.deps.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\Problem 3. Periodic Table\bin\Debug\net5.0\Problem 3. Periodic Table.runtimeconfig.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\Problem 3. Periodic Table\bin\Debug\net5.0\Problem 3. Periodic Table.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\Problem 3. Periodic Table\bin\Debug\net5.0\Problem 3. Periodic Table.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\Problem 3. Periodic Table\bin\Debug\net5.0\ref\Problem 3. Periodic Table.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\Problem 3. Periodic Table\bin\Debug\net5.0\Problem 3. Periodic Table.pdb
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\Problem 3. Periodic Table\obj\Debug\net5.0\Problem 3. Periodic Table.csproj.AssemblyReference.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\Problem 3. Periodic Table\obj\Debug\net5.0\Problem 3. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\Problem 3. Periodic Table\obj\Debug\net5.0\Problem 3. Periodic Table.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\Problem 3. Periodic Table\obj\Debug\net5.0\Problem 3. Periodic Table.AssemblyInfo.cs
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\Problem 3. Periodic Table\obj\Debug\net5.0\Problem 3. Periodic Table.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\Problem 3. Periodic Table\obj\Debug\net5.0\Problem 3. Periodic Table.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\Problem 3. Periodic Table\obj\Debug\net5.0\ref\Problem 3. Periodic Table.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\Problem 3. Periodic Table\obj\Debug\net5.0\Problem 3. Periodic Table.pdb
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\Problem 3. Periodic Table\obj\Debug\net5.0\Problem 3. Periodic Table.genruntimeconfig.cache
