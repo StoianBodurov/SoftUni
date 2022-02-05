@@ -1,0 +1,15 @@
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\2. Sets of Elements\bin\Debug\net5.0\2. Sets of Elements.exe
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\2. Sets of Elements\bin\Debug\net5.0\2. Sets of Elements.deps.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\2. Sets of Elements\bin\Debug\net5.0\2. Sets of Elements.runtimeconfig.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\2. Sets of Elements\bin\Debug\net5.0\2. Sets of Elements.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\2. Sets of Elements\bin\Debug\net5.0\2. Sets of Elements.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\2. Sets of Elements\bin\Debug\net5.0\ref\2. Sets of Elements.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\2. Sets of Elements\bin\Debug\net5.0\2. Sets of Elements.pdb
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\2. Sets of Elements\obj\Debug\net5.0\2. Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\2. Sets of Elements\obj\Debug\net5.0\2. Sets of Elements.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\2. Sets of Elements\obj\Debug\net5.0\2. Sets of Elements.AssemblyInfo.cs
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\2. Sets of Elements\obj\Debug\net5.0\2. Sets of Elements.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\2. Sets of Elements\obj\Debug\net5.0\2. Sets of Elements.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\2. Sets of Elements\obj\Debug\net5.0\ref\2. Sets of Elements.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\2. Sets of Elements\obj\Debug\net5.0\2. Sets of Elements.pdb
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\2. Sets of Elements\obj\Debug\net5.0\2. Sets of Elements.genruntimeconfig.cache
