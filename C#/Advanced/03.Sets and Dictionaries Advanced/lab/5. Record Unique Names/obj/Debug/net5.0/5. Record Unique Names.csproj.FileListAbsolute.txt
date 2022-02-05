@@ -1,0 +1,15 @@
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\5. Record Unique Names\bin\Debug\net5.0\5. Record Unique Names.exe
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\5. Record Unique Names\bin\Debug\net5.0\5. Record Unique Names.deps.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\5. Record Unique Names\bin\Debug\net5.0\5. Record Unique Names.runtimeconfig.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\5. Record Unique Names\bin\Debug\net5.0\5. Record Unique Names.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\5. Record Unique Names\bin\Debug\net5.0\5. Record Unique Names.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\5. Record Unique Names\bin\Debug\net5.0\ref\5. Record Unique Names.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\5. Record Unique Names\bin\Debug\net5.0\5. Record Unique Names.pdb
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\5. Record Unique Names\obj\Debug\net5.0\5. Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\5. Record Unique Names\obj\Debug\net5.0\5. Record Unique Names.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\5. Record Unique Names\obj\Debug\net5.0\5. Record Unique Names.AssemblyInfo.cs
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\5. Record Unique Names\obj\Debug\net5.0\5. Record Unique Names.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\5. Record Unique Names\obj\Debug\net5.0\5. Record Unique Names.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\5. Record Unique Names\obj\Debug\net5.0\ref\5. Record Unique Names.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\5. Record Unique Names\obj\Debug\net5.0\5. Record Unique Names.pdb
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\5. Record Unique Names\obj\Debug\net5.0\5. Record Unique Names.genruntimeconfig.cache
