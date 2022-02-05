@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\1. Count Same Values in Array\bin\Debug\net5.0\1. Count Same Values in Array.exe
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\1. Count Same Values in Array\bin\Debug\net5.0\1. Count Same Values in Array.deps.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\1. Count Same Values in Array\bin\Debug\net5.0\1. Count Same Values in Array.runtimeconfig.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\1. Count Same Values in Array\bin\Debug\net5.0\1. Count Same Values in Array.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\1. Count Same Values in Array\bin\Debug\net5.0\1. Count Same Values in Array.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\1. Count Same Values in Array\bin\Debug\net5.0\ref\1. Count Same Values in Array.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\1. Count Same Values in Array\bin\Debug\net5.0\1. Count Same Values in Array.pdb
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\1. Count Same Values in Array\obj\Debug\net5.0\1. Count Same Values in Array.csproj.AssemblyReference.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\1. Count Same Values in Array\obj\Debug\net5.0\1. Count Same Values in Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\1. Count Same Values in Array\obj\Debug\net5.0\1. Count Same Values in Array.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\1. Count Same Values in Array\obj\Debug\net5.0\1. Count Same Values in Array.AssemblyInfo.cs
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\1. Count Same Values in Array\obj\Debug\net5.0\1. Count Same Values in Array.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\1. Count Same Values in Array\obj\Debug\net5.0\1. Count Same Values in Array.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\1. Count Same Values in Array\obj\Debug\net5.0\ref\1. Count Same Values in Array.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\1. Count Same Values in Array\obj\Debug\net5.0\1. Count Same Values in Array.pdb
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\1. Count Same Values in Array\obj\Debug\net5.0\1. Count Same Values in Array.genruntimeconfig.cache
