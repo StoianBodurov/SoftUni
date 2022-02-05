@@ -1,0 +1,15 @@
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\6. Parking Lot\bin\Debug\net5.0\6. Parking Lot.exe
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\6. Parking Lot\bin\Debug\net5.0\6. Parking Lot.deps.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\6. Parking Lot\bin\Debug\net5.0\6. Parking Lot.runtimeconfig.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\6. Parking Lot\bin\Debug\net5.0\6. Parking Lot.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\6. Parking Lot\bin\Debug\net5.0\6. Parking Lot.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\6. Parking Lot\bin\Debug\net5.0\ref\6. Parking Lot.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\6. Parking Lot\bin\Debug\net5.0\6. Parking Lot.pdb
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\6. Parking Lot\obj\Debug\net5.0\6. Parking Lot.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\6. Parking Lot\obj\Debug\net5.0\6. Parking Lot.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\6. Parking Lot\obj\Debug\net5.0\6. Parking Lot.AssemblyInfo.cs
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\6. Parking Lot\obj\Debug\net5.0\6. Parking Lot.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\6. Parking Lot\obj\Debug\net5.0\6. Parking Lot.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\6. Parking Lot\obj\Debug\net5.0\ref\6. Parking Lot.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\6. Parking Lot\obj\Debug\net5.0\6. Parking Lot.pdb
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\6. Parking Lot\obj\Debug\net5.0\6. Parking Lot.genruntimeconfig.cache
