@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.csproj.AssemblyReference.cache
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.AssemblyInfo.cs
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.exe
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.deps.json
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.runtimeconfig.json
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\5. Snake Moves\bin\Debug\net5.0\ref\5. Snake Moves.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.pdb
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\5. Snake Moves\obj\Debug\net5.0\ref\5. Snake Moves.dll
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.pdb
+E:\C#\Advanced\advanced\02.Multidimensional Arrays\exercises\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.genruntimeconfig.cache
