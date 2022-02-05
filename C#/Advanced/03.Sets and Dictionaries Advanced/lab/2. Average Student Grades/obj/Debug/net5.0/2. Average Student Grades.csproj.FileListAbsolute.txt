@@ -1,0 +1,15 @@
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\2. Average Student Grades\bin\Debug\net5.0\2. Average Student Grades.exe
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\2. Average Student Grades\bin\Debug\net5.0\2. Average Student Grades.deps.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\2. Average Student Grades\bin\Debug\net5.0\2. Average Student Grades.runtimeconfig.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\2. Average Student Grades\bin\Debug\net5.0\2. Average Student Grades.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\2. Average Student Grades\bin\Debug\net5.0\2. Average Student Grades.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\2. Average Student Grades\bin\Debug\net5.0\ref\2. Average Student Grades.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\2. Average Student Grades\bin\Debug\net5.0\2. Average Student Grades.pdb
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\2. Average Student Grades\obj\Debug\net5.0\2. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\2. Average Student Grades\obj\Debug\net5.0\2. Average Student Grades.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\2. Average Student Grades\obj\Debug\net5.0\2. Average Student Grades.AssemblyInfo.cs
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\2. Average Student Grades\obj\Debug\net5.0\2. Average Student Grades.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\2. Average Student Grades\obj\Debug\net5.0\2. Average Student Grades.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\2. Average Student Grades\obj\Debug\net5.0\ref\2. Average Student Grades.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\2. Average Student Grades\obj\Debug\net5.0\2. Average Student Grades.pdb
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\lab\2. Average Student Grades\obj\Debug\net5.0\2. Average Student Grades.genruntimeconfig.cache
