@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\4. Even Times\bin\Debug\net5.0\4. Even Times.exe
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\4. Even Times\bin\Debug\net5.0\4. Even Times.deps.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\4. Even Times\bin\Debug\net5.0\4. Even Times.runtimeconfig.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\4. Even Times\bin\Debug\net5.0\4. Even Times.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\4. Even Times\bin\Debug\net5.0\4. Even Times.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\4. Even Times\bin\Debug\net5.0\ref\4. Even Times.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\4. Even Times\bin\Debug\net5.0\4. Even Times.pdb
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\4. Even Times\obj\Debug\net5.0\4. Even Times.csproj.AssemblyReference.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\4. Even Times\obj\Debug\net5.0\4. Even Times.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\4. Even Times\obj\Debug\net5.0\4. Even Times.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\4. Even Times\obj\Debug\net5.0\4. Even Times.AssemblyInfo.cs
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\4. Even Times\obj\Debug\net5.0\4. Even Times.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\4. Even Times\obj\Debug\net5.0\4. Even Times.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\4. Even Times\obj\Debug\net5.0\ref\4. Even Times.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\4. Even Times\obj\Debug\net5.0\4. Even Times.pdb
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\4. Even Times\obj\Debug\net5.0\4. Even Times.genruntimeconfig.cache
