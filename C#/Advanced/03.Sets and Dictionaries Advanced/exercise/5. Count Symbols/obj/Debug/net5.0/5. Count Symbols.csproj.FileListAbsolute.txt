@@ -1,0 +1,15 @@
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\5. Count Symbols\bin\Debug\net5.0\5. Count Symbols.exe
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\5. Count Symbols\bin\Debug\net5.0\5. Count Symbols.deps.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\5. Count Symbols\bin\Debug\net5.0\5. Count Symbols.runtimeconfig.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\5. Count Symbols\bin\Debug\net5.0\5. Count Symbols.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\5. Count Symbols\bin\Debug\net5.0\5. Count Symbols.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\5. Count Symbols\bin\Debug\net5.0\ref\5. Count Symbols.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\5. Count Symbols\bin\Debug\net5.0\5. Count Symbols.pdb
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\5. Count Symbols\obj\Debug\net5.0\5. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\5. Count Symbols\obj\Debug\net5.0\5. Count Symbols.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\5. Count Symbols\obj\Debug\net5.0\5. Count Symbols.AssemblyInfo.cs
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\5. Count Symbols\obj\Debug\net5.0\5. Count Symbols.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\5. Count Symbols\obj\Debug\net5.0\5. Count Symbols.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\5. Count Symbols\obj\Debug\net5.0\ref\5. Count Symbols.dll
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\5. Count Symbols\obj\Debug\net5.0\5. Count Symbols.pdb
+E:\C#\Advanced\advanced\03.Sets and Dictionaries Advanced\exercise\5. Count Symbols\obj\Debug\net5.0\5. Count Symbols.genruntimeconfig.cache
