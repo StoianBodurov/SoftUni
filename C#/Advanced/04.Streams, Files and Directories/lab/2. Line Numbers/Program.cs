@@ -12,12 +12,19 @@ namespace _2._Line_Numbers
                 var line = reader.ReadLine();
                 int counter = 1;
 
-                while (line != null)
-                {
-                    Console.WriteLine($"{counter}. {line}");
-                    counter++;
-                    line = reader.ReadLine();
-                }
+                
+                    using (var writer = new StreamWriter("../../../Output.txt"))
+                    {
+                        while(line != null)
+                        {
+                            writer.WriteLine($"{counter}. {line}");
+                            counter++;
+                            line = reader.ReadLine();
+
+                        }
+                    }
+                    
+                
             }
         }
     }
