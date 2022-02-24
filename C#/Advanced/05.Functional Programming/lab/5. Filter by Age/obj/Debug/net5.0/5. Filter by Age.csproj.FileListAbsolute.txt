@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\05.Functional Programming\lab\5. Filter by Age\bin\Debug\net5.0\5. Filter by Age.exe
+E:\C#\Advanced\advanced\05.Functional Programming\lab\5. Filter by Age\bin\Debug\net5.0\5. Filter by Age.deps.json
+E:\C#\Advanced\advanced\05.Functional Programming\lab\5. Filter by Age\bin\Debug\net5.0\5. Filter by Age.runtimeconfig.json
+E:\C#\Advanced\advanced\05.Functional Programming\lab\5. Filter by Age\bin\Debug\net5.0\5. Filter by Age.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\05.Functional Programming\lab\5. Filter by Age\bin\Debug\net5.0\5. Filter by Age.dll
+E:\C#\Advanced\advanced\05.Functional Programming\lab\5. Filter by Age\bin\Debug\net5.0\ref\5. Filter by Age.dll
+E:\C#\Advanced\advanced\05.Functional Programming\lab\5. Filter by Age\bin\Debug\net5.0\5. Filter by Age.pdb
+E:\C#\Advanced\advanced\05.Functional Programming\lab\5. Filter by Age\obj\Debug\net5.0\5. Filter by Age.csproj.AssemblyReference.cache
+E:\C#\Advanced\advanced\05.Functional Programming\lab\5. Filter by Age\obj\Debug\net5.0\5. Filter by Age.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\05.Functional Programming\lab\5. Filter by Age\obj\Debug\net5.0\5. Filter by Age.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\05.Functional Programming\lab\5. Filter by Age\obj\Debug\net5.0\5. Filter by Age.AssemblyInfo.cs
+E:\C#\Advanced\advanced\05.Functional Programming\lab\5. Filter by Age\obj\Debug\net5.0\5. Filter by Age.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\05.Functional Programming\lab\5. Filter by Age\obj\Debug\net5.0\5. Filter by Age.dll
+E:\C#\Advanced\advanced\05.Functional Programming\lab\5. Filter by Age\obj\Debug\net5.0\ref\5. Filter by Age.dll
+E:\C#\Advanced\advanced\05.Functional Programming\lab\5. Filter by Age\obj\Debug\net5.0\5. Filter by Age.pdb
+E:\C#\Advanced\advanced\05.Functional Programming\lab\5. Filter by Age\obj\Debug\net5.0\5. Filter by Age.genruntimeconfig.cache
