@@ -1,0 +1,15 @@
+E:\C#\Advanced\advanced\05.Functional Programming\lab\2. Sum Numbers\bin\Debug\net5.0\2. Sum Numbers.exe
+E:\C#\Advanced\advanced\05.Functional Programming\lab\2. Sum Numbers\bin\Debug\net5.0\2. Sum Numbers.deps.json
+E:\C#\Advanced\advanced\05.Functional Programming\lab\2. Sum Numbers\bin\Debug\net5.0\2. Sum Numbers.runtimeconfig.json
+E:\C#\Advanced\advanced\05.Functional Programming\lab\2. Sum Numbers\bin\Debug\net5.0\2. Sum Numbers.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\05.Functional Programming\lab\2. Sum Numbers\bin\Debug\net5.0\2. Sum Numbers.dll
+E:\C#\Advanced\advanced\05.Functional Programming\lab\2. Sum Numbers\bin\Debug\net5.0\ref\2. Sum Numbers.dll
+E:\C#\Advanced\advanced\05.Functional Programming\lab\2. Sum Numbers\bin\Debug\net5.0\2. Sum Numbers.pdb
+E:\C#\Advanced\advanced\05.Functional Programming\lab\2. Sum Numbers\obj\Debug\net5.0\2. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\05.Functional Programming\lab\2. Sum Numbers\obj\Debug\net5.0\2. Sum Numbers.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\05.Functional Programming\lab\2. Sum Numbers\obj\Debug\net5.0\2. Sum Numbers.AssemblyInfo.cs
+E:\C#\Advanced\advanced\05.Functional Programming\lab\2. Sum Numbers\obj\Debug\net5.0\2. Sum Numbers.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\05.Functional Programming\lab\2. Sum Numbers\obj\Debug\net5.0\2. Sum Numbers.dll
+E:\C#\Advanced\advanced\05.Functional Programming\lab\2. Sum Numbers\obj\Debug\net5.0\ref\2. Sum Numbers.dll
+E:\C#\Advanced\advanced\05.Functional Programming\lab\2. Sum Numbers\obj\Debug\net5.0\2. Sum Numbers.pdb
+E:\C#\Advanced\advanced\05.Functional Programming\lab\2. Sum Numbers\obj\Debug\net5.0\2. Sum Numbers.genruntimeconfig.cache
