@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\3. Custom Min Function\obj\Debug\net5.0\3. Custom Min Function.csproj.AssemblyReference.cache
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\3. Custom Min Function\obj\Debug\net5.0\3. Custom Min Function.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\3. Custom Min Function\obj\Debug\net5.0\3. Custom Min Function.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\3. Custom Min Function\obj\Debug\net5.0\3. Custom Min Function.AssemblyInfo.cs
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\3. Custom Min Function\obj\Debug\net5.0\3. Custom Min Function.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\3. Custom Min Function\bin\Debug\net5.0\3. Custom Min Function.exe
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\3. Custom Min Function\bin\Debug\net5.0\3. Custom Min Function.deps.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\3. Custom Min Function\bin\Debug\net5.0\3. Custom Min Function.runtimeconfig.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\3. Custom Min Function\bin\Debug\net5.0\3. Custom Min Function.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\3. Custom Min Function\bin\Debug\net5.0\3. Custom Min Function.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\3. Custom Min Function\bin\Debug\net5.0\ref\3. Custom Min Function.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\3. Custom Min Function\bin\Debug\net5.0\3. Custom Min Function.pdb
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\3. Custom Min Function\obj\Debug\net5.0\3. Custom Min Function.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\3. Custom Min Function\obj\Debug\net5.0\ref\3. Custom Min Function.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\3. Custom Min Function\obj\Debug\net5.0\3. Custom Min Function.pdb
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\3. Custom Min Function\obj\Debug\net5.0\3. Custom Min Function.genruntimeconfig.cache
