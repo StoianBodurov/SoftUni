@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\1. Action Point\bin\Debug\net5.0\1. Action Point.exe
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\1. Action Point\bin\Debug\net5.0\1. Action Point.deps.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\1. Action Point\bin\Debug\net5.0\1. Action Point.runtimeconfig.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\1. Action Point\bin\Debug\net5.0\1. Action Point.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\1. Action Point\bin\Debug\net5.0\1. Action Point.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\1. Action Point\bin\Debug\net5.0\ref\1. Action Point.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\1. Action Point\bin\Debug\net5.0\1. Action Point.pdb
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\1. Action Point\obj\Debug\net5.0\1. Action Point.csproj.AssemblyReference.cache
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\1. Action Point\obj\Debug\net5.0\1. Action Point.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\1. Action Point\obj\Debug\net5.0\1. Action Point.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\1. Action Point\obj\Debug\net5.0\1. Action Point.AssemblyInfo.cs
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\1. Action Point\obj\Debug\net5.0\1. Action Point.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\1. Action Point\obj\Debug\net5.0\1. Action Point.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\1. Action Point\obj\Debug\net5.0\ref\1. Action Point.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\1. Action Point\obj\Debug\net5.0\1. Action Point.pdb
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\1. Action Point\obj\Debug\net5.0\1. Action Point.genruntimeconfig.cache
