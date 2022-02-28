@@ -1,0 +1,15 @@
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\8. Custom Comparator\obj\Debug\net5.0\8. Custom Comparator.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\8. Custom Comparator\obj\Debug\net5.0\8. Custom Comparator.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\8. Custom Comparator\obj\Debug\net5.0\8. Custom Comparator.AssemblyInfo.cs
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\8. Custom Comparator\obj\Debug\net5.0\8. Custom Comparator.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\8. Custom Comparator\bin\Debug\net5.0\8. Custom Comparator.exe
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\8. Custom Comparator\bin\Debug\net5.0\8. Custom Comparator.deps.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\8. Custom Comparator\bin\Debug\net5.0\8. Custom Comparator.runtimeconfig.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\8. Custom Comparator\bin\Debug\net5.0\8. Custom Comparator.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\8. Custom Comparator\bin\Debug\net5.0\8. Custom Comparator.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\8. Custom Comparator\bin\Debug\net5.0\ref\8. Custom Comparator.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\8. Custom Comparator\bin\Debug\net5.0\8. Custom Comparator.pdb
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\8. Custom Comparator\obj\Debug\net5.0\8. Custom Comparator.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\8. Custom Comparator\obj\Debug\net5.0\ref\8. Custom Comparator.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\8. Custom Comparator\obj\Debug\net5.0\8. Custom Comparator.pdb
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\8. Custom Comparator\obj\Debug\net5.0\8. Custom Comparator.genruntimeconfig.cache
