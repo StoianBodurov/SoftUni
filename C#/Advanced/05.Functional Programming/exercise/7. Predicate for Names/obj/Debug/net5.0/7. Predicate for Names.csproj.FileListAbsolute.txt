@@ -1,0 +1,15 @@
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.exe
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.deps.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.runtimeconfig.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\7. Predicate for Names\bin\Debug\net5.0\ref\7. Predicate for Names.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.pdb
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.AssemblyInfo.cs
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\7. Predicate for Names\obj\Debug\net5.0\ref\7. Predicate for Names.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.pdb
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.genruntimeconfig.cache
