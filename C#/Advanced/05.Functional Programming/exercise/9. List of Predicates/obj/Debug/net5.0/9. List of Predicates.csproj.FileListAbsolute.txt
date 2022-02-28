@@ -1,0 +1,15 @@
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.exe
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.deps.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.runtimeconfig.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\9. List of Predicates\bin\Debug\net5.0\ref\9. List of Predicates.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\9. List of Predicates\bin\Debug\net5.0\9. List of Predicates.pdb
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.AssemblyInfo.cs
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\9. List of Predicates\obj\Debug\net5.0\ref\9. List of Predicates.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.pdb
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\9. List of Predicates\obj\Debug\net5.0\9. List of Predicates.genruntimeconfig.cache
