@@ -1,0 +1,16 @@
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.exe
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.deps.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.runtimeconfig.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.runtimeconfig.dev.json
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\4. Find Evens or Odds\bin\Debug\net5.0\ref\4. Find Evens or Odds.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.pdb
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.csproj.AssemblyReference.cache
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.AssemblyInfoInputs.cache
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.AssemblyInfo.cs
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.csproj.CoreCompileInputs.cache
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\4. Find Evens or Odds\obj\Debug\net5.0\ref\4. Find Evens or Odds.dll
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.pdb
+E:\C#\Advanced\advanced\05.Functional Programming\exercise\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.genruntimeconfig.cache
